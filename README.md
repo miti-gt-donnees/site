@@ -1,3 +1,3 @@
-# NASA-Openscapes.github.io
+# Atelier "données"
 
-Landing page for NASA-Openscapes  
+Site web test rélaisé avec [Quarto](https://quarto.org/)

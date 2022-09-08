@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: "Présentation"
 description: |
-  NASA Earthdata-Openscapes answers a NASA Earthdata call to support scientific researchers using data from NASA Distributed Active Archive Centers (DAACs) as they migrate workflows to the cloud.
+Atelier Données : un gt (inter-réseaux) pour des apports croisés des métie    rs sur la gestion des données de la recherche
 output:
   distill::distill_article:
     self_contained: false
@@ -9,105 +9,37 @@ output:
     toc_depth: 3
 ---
 
-## Openscapes
+Le [groupe de travail "Atelier Données"](https://www.cnrs.fr/mi/spip.php?article1313) , actuellement
+composé de représentants de plusieurs réseaux  s’attache à construire
+une réflexion sur la gestion des données porteuse d’une vision «
+métiers » et « réseaux ».
 
-Openscapes champions open, inclusive practices in environmental and Earth science to help uncover data-intensive solutions faster. We do this through our flagship Champions mentorship program, as well as through community organizing, training, and coaching, leveraging existing resources from open communities along with our own.
+A partir d’une réflexion de type « cycle de vie de la donnée », il
+se propose de cartographier les usages dans chaque réseau autour
+de la gestion de la donnée.
 
-Our [flywheel](https://www.jimcollins.com/concepts/the-flywheel.html) shows our approach to engaging, empowering, and amplifying research communities in open data science --- how we describe kinder, better science in less time.
+![logo](images/gt-donnees-logo.png)
 
-![Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire](images/openscapes-flywheel-eea.png)
+Notre lettre de mission contient les élements suivants :
 
-<!---https://docs.google.com/presentation/d/14Ko80NL1qA3KsH0Spgym20DXp5ZLn6zE2KOuqUTNMVA/edit#slide=id.gc846ffc89f_2_32--->
+- Construire et diffuser une vision transversale de la gestion des données afin d’enrichir la pratique de chaque réseau dans le domaine des données et permettre le développement de la complémentarité entre réseaux.
+- Valoriser l’apport des expériences et expertises « métier » dans une vision transversale de gestion de données dans les réseaux technologiques et scientifiques de la MI.
+- Sensibiliser les communautés professionnelles de l’appui à la gestion des données (organisation de journées thématiques par exemple).
+- Identifier les problématiques concernant les « data » dans chaque réseau (livrables à définir).
+- Mettre en commun et partager de nouvelles pratiques en réseau et au sein de chaque réseau.
 
-## The NASA EarthData-Openscapes project
+En 2017, le groupe a proposé un [document](GTInterreseaux-CartoSyntheseV6-optimise.pdf)
+ qui cartographie les usages dans chaque réseau autour de la gestion de la donnée.
+			
+En 2018, le groupe a organisé une journée thématique inter-réseaux « Interopérabilité et pérennisation des données de la recherche : Comment FAIR en pratique ? ([pdf](https://gt-donnees2018.sciencesconf.org/), [visio](https://webcast.in2p3.fr/container/interoperabilite-et-perennisation-des-donnees-de-la-recherche)) ».
 
-**The overarching vision** is to support scientific researchers using NASA Earthdata as they migrate their workflows to the cloud. We are doing this working with NASA Distributed Active Archive Centers (DAACs) over three years by:
+En 2019, le groupe a participé aux journées R2T2 « Atelier données : un gt inter-réseaux pour des apports croisés des métiers sur la
+gestion des données de la recherche ([pdf](R2T2_atelier_donn%C3%A9es_Rivet.pdf),
+[visio](https://webcast.in2p3.fr/video/un-gt-inter-reseaux-pour-des-apports-croises-des-metiers-sur-la-gestion-des-donnees-de-la-recherche))
+» et a ouvert la liste de discussion [donnees-inter-reseaux](Raison_etre_liste_donnees-inter-reseaux.pdf).
 
-1.  Developing a cross-DAAC Mentor community that supports growth into confident cloud data instructors, and create, curate and use shared resources and have a tutorial review process
+En 2020, le groupe a organisé à Grenoble un hackathon intitulé « [Comment améliorer le dépôt et le partage de données de recherche ?](https://gt-donnees2020.sciencesconf.org) » et un webinaire participatif intitulé «Data Paper : une incitation à la qualification et à la réutilisation des jeux de données ([pgm](Programme_Webinaire_data_paper_5nov2020_GT_Donnees_MITI.pdf), [pdf / visio](https://mi-gt-donnees.pages.math.unistra.fr/datapaper/)) » 
 
-2.  Empowering science teams to experiment migrating their download-intensive data analysis workflows to the cloud through a partnership with Carpentries and 2i2c
-
-3.  Scaling the Openscapes Champions program with DAAC Mentors to support science cohorts and amplify as many open science leaders as possible, transforming their workflows towards open, kinder science and the cloud
-
-## Blog
-
-[Blog posts](https://www.openscapes.org/tags/nasa-framework/) about NASA Openscapes
-
-## Slides
-
-- [Efforts to support end users in the journey to the cloud](https://docs.google.com/presentation/d/1C9w46DCBY4eIP2KwrrQvDKtj7Uaf_Hr6VzcbxMZ6dxI/edit#slide=id.g142ea985af2_0_1) - August 17, 2022: [ESDIS SE TIM 2022](https://wiki.earthdata.nasa.gov/display/EM/ESDIS+SE+TIM+-+August+2022) Oaida Taglialatela, Hunzinger, Smit, López, Steiker
-
-
-- [NASA Openscapes Lessons from Year 1](https://docs.google.com/presentation/d/1jtiku5yOTzBtW2vT1-qwZPri_O2Bc_uzXNebIoKGLMg/edit?usp=sharing) - April 21, 2022: ESDSWG Robinson, Lowndes, López
-
-- [NASA Openscapes Cloud Infrastructure](https://docs.google.com/presentation/d/100aazshfYJfIe5pjQ6w3hswjA9zuuhEd2sZ3P4LhxJc/edit?usp=sharing) - February 9, 2021: NSIDC by Luis López
-
-- [Community Building: The NASA Openscapes Framework](https://openscapes.github.io/slides/esip_winter2022) - January 18, 2022: ESIP Winter Meeting
-- [NASA Earthdata Access in the Cloud Using Open-source libraries](https://nasa-openscapes.github.io/slides/Earthdata_Cloud__Open-Science-Tutorial.html#/title-slide) - December 17, 2021: invited talk by Amy Steiker at the [Open Science in Action](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session) Session at the AGU Fall meeting (30 minutes)
-
-- [Open Project Design: Lessons from the NASA Openscapes Framework](https://docs.google.com/presentation/d/1uc2BGBsjVABa_ZnqYCi8EgeFjlUSMd3KMSlQJnok9T8/edit?usp=sharing) — December 17, 2021: invited talk at the [Open Science in Action](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session) Session at the AGU Fall meeting (30 minutes)
-
-- [Openscapes: Better Science for Future Us](https://docs.google.com/presentation/d/1i-HNx756ZsYJMYsavCwiYtp2hbQX6vNyZ6lwVdKJyzQ/edit?usp=sharing) — December 8, 2021: invited talk about data interoperability at the [National Academies of Science, Engineering, and Medicine (NASEM) meeting co-hosted by the Mapping Sciences Committee and the Geographical Sciences Committee](https://www.nationalacademies.org/event/12-08-2021/accelerating-the-analysis-of-geographic-change)
-
-- [Cross-DAAC Collab via Openscapes: Infusing Openscapes training, mentorship, and community building models into EOSDIS](https://docs.google.com/presentation/d/1zDA5GL2pN2rKnVLidfUBMynxD4AJ5EbAUBZcjOYXcwo/edit?disco=AAAAQYcgLJI&usp_dm=false#slide=id.gfacc98ea45_0_1417) — October 26, 2021: SE TIM lightning talk by Amy Steiker
-
-- [Openscapes: Better Science for Future Us](https://docs.google.com/presentation/d/1Sl4x6oTsjD4x30O_KwNoqr0-Yckh0CCK75PIqaaYdUY/edit?usp=sharing) — October 14, 2021: [NASA’s Open Source Science for Data Processing and Archives Workshop](https://science.nasa.gov/researchers/science-data/open-source-science-workshop)
-
--   [Openscapes: Better Science for Future Us. Supporting NASA Earth science research teams' migration to the cloud](https://docs.google.com/presentation/d/18uj2eAgzetPoq73YnRQpcYr2Q-EPuiHNaFE0sgR1XTE/edit?usp=sharing) 
-    - September 16, 2021: NSIDC User Working Group
-    - September 8, 2021: GES DISC User Working Group
-
--   [Openscapes: Better Science for Future Us. Supporting NASA Earth science research teams' migration to the cloud](https://docs.google.com/presentation/d/1SVwkEDe2gUzJJZ5NGsGTsGPde-NJm9HLtKieSeuthfI/edit?usp=sharing) - August 12, 2021: LP DAAC User Working Group
-
--   [Openscapes](https://docs.google.com/presentation/d/1kxXDo80RNnA52dRL1tQPz5KO7BBDlaH7EpM9xZaA5AA/edit#slide=id.ge1618b146e_0_944) - July 6, 2021: SAFe Plenary by Amy Steiker
-
--   [Better Science for Future Us](https://docs.google.com/presentation/d/17XcJSxoE3_-0PqYgQ0l7NctniBNUxaZ5Zo0hjL-bjJo/edit) - June 30, 2021: Pangeo Showcase ([PANGEO Discourse](https://discourse.pangeo.io/t/june-30-2021-the-nasa-openscapes-framework/1631), [Zenodo](https://zenodo.org/record/5090115#.YO3kom5lDUI))
-
--   [NASA DAACs Openscapes Framework](https://docs.google.com/presentation/d/1_2ybhWlbg_Y_NrTQ_FF8JqqmbsstCkt5IKZqHmwDtFg/edit?usp=sharing) - March 25, 2021: NASA ESDS-ESDIS-DAACs-IMPACT Meeting
-
-<br>
-
-## Why NASA Earthdata? Why Openscapes?
-
-We are getting these questions a lot, so here is our take.
-
-NASA Earth Science Data Systems missions collect Earth data, including sea ice, physical oceanography, vegetation and many other parameters -- data used by researchers around the world for many different purposes, including answering pressing questions in ecology and environmental science. Further, NASA promotes open science -- from the NASA Earth Science Data Systems (ESDS) program 2020 Highlights report:
-
-> Open data are the foundation of ESDS efforts to fulfill the program's vision of accelerating scientific advancement for societal benefit through innovative Earth science data stewardship and technology development....to leverage the diversity of global Earth science communities to advance open science.
-
-Openscapes' long-term goal is to enable robust, inclusive, and enduring science- and data-driven solutions to global and time-sensitive challenges. We approach open science as a spectrum, as a behavior change, and as a movement. We see data analysis and stewardship as entryways to meet scientists where they are, helping them develop new skill sets and mindsets while empowering them as leaders. With NASA support, the project team and the partners, the Openscapes Framework fundamentally changes the paradigm for supporting research teams and DAAC mentors, first to work more openly with their teams on the cloud, and ultimately to advance open science!
-
-Openscapes is co-directed by project leads Lowndes and Robinson, and operated at the National Center for Ecological Analysis and Synthesis (NCEAS), University of California Santa Barbara.
-
-## Project Leads
-
-**Julia Stewart Lowndes, PhD**\
-National Center for Ecological Analysis and Synthesis (NCEAS)\
-University of California Santa Barbara (UCSB)\
-[lowndes at nceas.ucsb.edu](mailto:lowndes%20at%20nceas.ucsb.edu); [\@juliesquid](https://twitter.com/juliesquid)
-
-<br>
-
-**Erin Robinson, MSc**\
-Metadata Game Changers, LLC\
-University of Colorado, Boulder \
-[erin\@metadatagamechangers.com](mailto:erin@metadatagamechangers.com); [\@connector_erin](https://twitter.com/connector_erin)
-
-## Project Teams
-
-[NASA-Openscapes Mentors](/mentors.html#mentor-cohort-2021) are a cross-DAAC Mentor community that is co-creating common tutorials, resources, and teaching approaches to support researchers migrating worksflows to the Cloud.
-
-Learn more about the NASA-Openscapes Champions --- coming soon.
-
-## Partners
-
-This project allows us to partner with organizations that share Openscapes' values of open, reproducible, and inclusive science:
-
--   [The Carpentries](https://carpentries.org/) teach foundational coding and data science skills to researchers worldwide. Openscapes is joining The Carpentries through this project as a Silver Member, which includes four Carpentries workshops per year and instructor training opportunities to the NASA DAAC community.
--   [2i2c](https://2i2c.org/) develops, deploys, customizes, and manages open source tools and cloud services for interactive computing in research and education. They deploy community-driven infrastructure, inspired by use-cases such as the UC Berkeley DataHubs and the Pangeo project, that provides easy "one-click-to-cloud" access with Jupyter Notebooks through the web browser designed to reduce the startup burden for new learners, and this approach will also benefit the NASA DAAC community.
-
-## Learn More
-
--   [earthdata.nasa.gov](https://earthdata.nasa.gov/)
-
--   [openscapes.org](https://openscapes.org)
+Le groupe est actuellement en cours de finalisation d’un guide pratique qui présente les différentes actions faites par les réseaux
+autour de la gestion des données . Ce guide reprend les 7 étapes définies dans le document « Cartographie des actions des réseaux
+métiers autour de la gestion des données » proposé en 2017.

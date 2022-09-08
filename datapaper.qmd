@@ -1,0 +1,40 @@
+---
+title: "Webinaire Data-Paper"
+date: 2020-11-05
+tags: [datapaper]
+---
+
+Une incitation à la qualification et à la réutilisation des jeux de données
+
+---
+
+Dans le cadre d’une science ouverte et participative, le data paper permet de rendre plus visible tous les types de données et jeux de
+données de recherche dont on peut estimer que le potentiel de réutilisation est important. Il garantit la traçabilité et la qualité de ces données, et précise les modalités d’acquisition ainsi que les conditions et droits d’utilisation.
+
+Néanmoins, pourquoi cette forme éditoriale rencontre-t-elle un tel engouement ? Si certaines communautés produisent depuis plusieurs
+années ce type d’article, la libération de la donnée dans le cadre de la science ouverte, son dépôt favorisé ou imposé par les organismes
+financeurs en entrepôts institutionnels ouverts, l’application des principes FAIR contribuent fortement à promouvoir le data paper
+comme qualifiant incontournable, assurant d’exploiter les «bonnes» données.
+
+Alors, cet élan est-il un reflet fidèle de la réalité, les pratiques de la recherche scientifique sont-elles en train de changer, les
+différents acteurs dans la production des données sont-ils plus impliqués dans la transparence et la mise à disposition des données
+? Est-ce une opportunité pour les personnels d’accompagnement de la recherche pour valoriser leur rôle ? Et comment rédiger un data
+paper, ou le publier ? Comment sont-ils expertisés, sur quels critères ? Le data paper devient-il un enjeu important dans
+l’évaluation du producteur de données ?Ce webinaire est ainsi l'occasion de laisser largement la place aux échanges pour tenter
+de partager vos points de vue, pour comprendre quelles sont les raisons qui vous amènent à devenir consommateur de data papers.
+Comment avez-vous connu ce format éditorial : grâce à votre veille, en découvrant l'existence de data journals ou de rubriques consacrées
+au data paper au sein d'une revue académique, parce que tout le monde en parle, en voulant utiliser ou publier des données ?
+Qu'avez-vous trouvé dans le data paper qui ne serait pas dans les portails de métadonnées ? Le data paper vous semble-t-il désormais
+indispensable et une forme nécessaire de publication accompagnant les données ?. Autant de questions que ce webinaire souhaite aborder
+pour évaluer la place que prend le data paper dans l’écosystème de la donnée scientifique.
+
+### Les documents
+
+* [Synthèse du Webinaire du 5 novembre Data Paper par Christine Hadrossek](Christine%20Hadrossek%20-%20Synth%C3%A8se%20webinaire%20du%205%20novembre%20Data%20Paper.pdf)
+* [Introduction](Introduction_Stephane_Renault.pdf) : Stéphane Renault
+* [Évaluer un data paper : retour d'expérience de la revue Cybergeo](Cybergeo_Denise_Pumain_Clementine_Cottineau_Christine_Kosmopoulos.pdf) : Clémentine Cottineau (CNRS – Centre Maurice Halbwachs), Denise Pumain (Univ. Paris 1 – UMR Géographie-Cités) et Christine Kosmopoulos (CNRS – UMR Géographie-Cités)
+* Exemple d’intégration du data paper à un workflow de publication de jeux données : [Sophie Pamerlon (GBIF France – USM Patrimoine naturel)](GBIF_IPT_Sophie_Pamerlon.pdf) et [Annegret Nicolai (Univ.Rennes 1 – UMR ECOBIO, Station Biologique de Paimpont)](BioBlitzSBP_Annegret_Nicolai.pdf)
+* Retour d’expérience d’un producteur de data paper : [Victor Gay (Univ. Toulouse 1– École d‘Économie de Toulouse)](REX_TRFGIS_Victor_Gay.pdf)
+* Synthèse du webinaire et échanges (à partir des questions du tchat) : [Joachim Schöpfel (Université Lille 3 – GERiiCO)](Synthese_Joachim_Schopfel.pdf)
+ 
+### Les vidéos

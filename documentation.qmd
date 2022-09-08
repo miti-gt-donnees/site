@@ -1,0 +1,12 @@
+---
+title: "Les Documents"
+date: 2020-12-18
+tags: [documentation]
+---
+
+* Les [archives](https://listes.services.cnrs.fr/wws/arc/donnees-inter-reseaux/) de la liste de discussion « donnees-inter-reseaux »
+* Le [choix d'un entrepôt](Choix_entrepot_hackathon_20200114.pdf/) par Françoise Tisserand, Ourida Aberkane et Mohamed Yahi
+* Le [poster](R2T2-septembre-2019.pdf) pour les R2T2 : Rencontres des Réseaux Transverses et inTerdisciplinaires, 18-19 September 2019, CNRS Campus Gérard Mégie
+* La [cartographie](GTInterreseaux-CartoSyntheseV6-optimise.pdf) des usages dans chaque réseau autour de la gestion de la donnée
+* Les [enregistrements](https://webcast.in2p3.fr/container/interoperabilite-et-perennisation-des-donnees-de-la-recherche) faits lors de la journée « Interopérabilité et pérennisation des données de la recherche : comment FAIR En pratique ? Retours d'expériences »
+* Le [livret](Livret_FAIR_2018.pdf) de la journée « Interopérabilité et pérennisation des données de la recherche : comment FAIR En pratique ? Retours d'expériences »

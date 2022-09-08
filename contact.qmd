@@ -1,0 +1,20 @@
+---
+title: "Contact"
+description: La liste 
+---
+
+gt-donnees-inter-reseaux @ groupes.renater.fr
+
+<h1>Les partenaires</h1>
+
+- CALCUL
+- DEVLOG
+- DIST CNRS
+- MEDICI
+- QER
+- RBDD
+- RELIER
+- RENATIS
+- RESINFO
+- RIS
+- SIST
