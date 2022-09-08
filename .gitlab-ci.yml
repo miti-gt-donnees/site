@@ -1,4 +1,5 @@
-image: python:3.9
+image: pnavaro/pandoc
+
 
 variables:
   QUARTO_VERSION: 1.1.189
@@ -14,6 +15,8 @@ pages:
     - rm -rf _site
     - quarto render
     - mv _site public
+  tags:
+    - docker
   artifacts:
     paths:
       - public
