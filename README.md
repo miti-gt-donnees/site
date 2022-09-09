@@ -1,6 +1,6 @@
 # Atelier "données"
 
-Site web test rélaisé avec [Quarto](https://quarto.org/)
+Site web test réalisé avec [Quarto](https://quarto.org/)
 
 Le fonctionnement se rapproche de jupyterbook, l’outil utilisé pour le guide.
 Les fichiers sont au format qmd qui est le format markdown avec en plus un en-tête qui permet d’ajouter des
