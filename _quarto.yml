@@ -7,7 +7,7 @@ website:
   favicon: images/openscapes_hex.png  
   
   page-footer: 
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/), with theme from [vetiver](https://github.com/rstudio/vetiver.rstudio.com)"
+    right: "Ce site a été créé avec [Quarto](https://quarto.org/)"
     left: "&copy; CC-By Atelier données"
  
   navbar:
@@ -36,6 +36,6 @@ format:
     theme: [sandstone, custom.scss]
     css: styles.css
     toc: true
-    toc-title: Contents
+    toc-title: " "
     toc-location: body
 

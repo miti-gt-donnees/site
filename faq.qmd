@@ -1,20 +1,14 @@
 ---
-title: ""
-title-block-banner: true
+title: "Foire Aux Questions"
+description: Cette FAQ est la synthèse des échanges qui se sont tenus lors de l'hackathon «[Comment améliorer le dépôt et le partage de données de recherche ?](https://mi-gt-donnees.pages.math.unistra.fr/fair/)». Elle est depuis enrichie régulièrement des discussions sur la liste données.
 format:
    html:
      theme: [sandstone, custom.scss]
      css: styles.css
      toc: true
-     toc-title: "Foire Aux Questions"
+     toc-title: " "
      toc-location: body
 ---
-
-Cette FAQ est la synthèse des échanges qui se sont tenus lors de
-l'hackathon « [Comment améliorer le dépôt et le partage de données
-de recherche ?](https://mi-gt-donnees.pages.math.unistra.fr/fair/)
-" ». Elle est depuis enrichie régulièrement des
-discussions sur la liste données.
 
 ## Quels sont les points de vigilance pour préparer le partage de données ? {#vigilance}
 

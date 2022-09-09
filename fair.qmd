@@ -1,59 +1,54 @@
 ---
 title: "Journée d'étude FAIR"
+subtitle: Interopérabilité et pérennisation des données de la recherche
+description: Comment FAIR en pratique ? Retours d’expériences 
+url: https://gt-donnees2018.sciencesconf.org
 date: 2018-11-27
 tags: [fair]
 ---
 
-Interopérabilité et pérennisation des données de la recherche
 
-Comment FAIR en pratique ? Retours d’expériences
-
-<https://gt-donnees2018.sciencesconf.org>
-
----
-
-### Introduction de la journée interopérabilité et pérennisation des données de la Recherche
+## Introduction de la journée interopérabilité et pérennisation des données de la Recherche
 [![Image](https://webcast.in2p3.fr/cache/medium/media/5b/fd/5bfd018200e87/5bfd018200e87.png)](https://webcast.in2p3.fr/video/introduction-de-la-journee-interoperabilite-et-perennisation-des-donnees-de-la-recherche) 
 
-### Traçabilité des activités de recherche dans les unités de recherche
+## Traçabilité des activités de recherche dans les unités de recherche
 [![Image](https://webcast.in2p3.fr/cache/medium/media/5b/fd/5bfd0667d0d83/5bfd0667d0d83.png)](https://webcast.in2p3.fr/video/tracabilite-des-activites-de-recherche-dans-les-unites-de-recherche) 
 
-### Retour d'expériences sur la publication de données en biologie
+## Retour d'expériences sur la publication de données en biologie
 [![Image](https://webcast.in2p3.fr/cache/medium/media/5b/fd/5bfd0aa9a0182/5bfd0aa9a0182.png)](https://webcast.in2p3.fr/video/retour-dexperiences-sur-la-publication-de-donnees-en-biologie)
 
-### Pérennisation de logiciels de la recherche, le projet PRESOFT
+## Pérennisation de logiciels de la recherche, le projet PRESOFT
 [![Image](https://webcast.in2p3.fr/cache/medium/media/5b/fd/5bfd12eeac067/5bfd12eeac067.png)](https://webcast.in2p3.fr/video/perennisation-de-logiciels-de-la-recherche-le-projet-presoft) 
 
-### Les principes FAIR appliqués aux sauvegardes sur le long terme
+## Les principes FAIR appliqués aux sauvegardes sur le long terme
 [![Image](https://webcast.in2p3.fr/cache/medium/media/5b/fd/5bfd0fb3900a8/5bfd0fb3900a8.png)](https://webcast.in2p3.fr/video/les-principes-fair-appliques-aux-sauvegardes-sur-le-long-terme) 
 
-### FAIR en linguistique de la langue orale : objectifs, méthode et outils
+## FAIR en linguistique de la langue orale : objectifs, méthode et outils
 [![Image](https://webcast.in2p3.fr/cache/medium/media/5b/fd/5bfd1f2868399/5bfd1f2868399.png)](https://webcast.in2p3.fr/video/fair-en-linguistique-de-la-langue-orale-objectifs-methode-et-outils)
 
-### Les périodiques du Muséum à l’heure du tout-numérique
+## Les périodiques du Muséum à l’heure du tout-numérique
 [![Image](https://webcast.in2p3.fr/cache/medium/media/5b/fd/5bfd2430b21a6/5bfd2430b21a6.png)](https://webcast.in2p3.fr/video/les-periodiques-du-museum-a-lheure-du-tout-numerique)   
 
-### Produire et diffuser des métadonnées thématiques pour l’archéologie : entre savoir-FAIR et pratique collaborative
+## Produire et diffuser des métadonnées thématiques pour l’archéologie : entre savoir-FAIR et pratique collaborative
 [![Image](https://webcast.in2p3.fr/cache/medium/media/5b/fd/5bfd2937bfaa6/5bfd2937bfaa6.png)](https://webcast.in2p3.fr/video/produire-et-diffuser-des-metadonnees-thematiques-pour-larcheologie-entre-savoir-fair-et-pratique-collaborative)
 
-### Les principes FAIR appliqués aux données archéologiques produites : Etat de la réflexion et des projets en cours
+## Les principes FAIR appliqués aux données archéologiques produites : Etat de la réflexion et des projets en cours
 [![Image](https://webcast.in2p3.fr/cache/medium/media/5b/fd/5bfd2cb9179e5/5bfd2cb9179e5.png)](https://webcast.in2p3.fr/video/les-principes-fair-appliques-aux-donnees-archeologiques-produites-par-linrap-etat-de-la-reflexion-et-des-projets-en-cours)
 
-### Observatoire Virtuel et FAIR, des principes fondamentaux à la pratique
+## Observatoire Virtuel et FAIR, des principes fondamentaux à la pratique
 [![Image](https://webcast.in2p3.fr/cache/medium/media/5b/fd/5bfd46872cc83/5bfd46872cc83.png)](https://webcast.in2p3.fr/video/observatoire-virtuel-et-fair-des-principes-fondamentaux-a-la-pratique)  
 
-### Pérennisation et interopérabilité des données de l'Observatoire de Recherche Méditerranéen de l'Environnement
+## Pérennisation et interopérabilité des données de l'Observatoire de Recherche Méditerranéen de l'Environnement
 [![Image](https://webcast.in2p3.fr/cache/medium/media/5b/fd/5bfd4fc445830/5bfd4fc445830.png)](https://webcast.in2p3.fr/video/perennisation-et-interoperabilite-des-donnees-de-lobservatoire-de-recherche-mediterraneen-de-lenvironnement)
 
-### Les documentalistes et la FAIRisation des données scientifiques : un travail d'équipes inter-métiers
+## Les documentalistes et la FAIRisation des données scientifiques : un travail d'équipes inter-métiers
 [![Image](https://webcast.in2p3.fr/cache/medium/media/5b/fd/5bfd4ab63718b/5bfd4ab63718b.png)](https://webcast.in2p3.fr/video/les-documentalistes-et-la-fairisation-des-donnees-scientifiques-un-travail-dequipe-inter-metiers)  
 
-### Make your data great (again)
+## Make your data great (again)
 [![Image](https://webcast.in2p3.fr/cache/medium/media/5b/fd/5bfd54e234f89/5bfd54e234f89.png)](https://webcast.in2p3.fr/video/make-your-data-great-again) 
 
-### OpenData pour la simulation et les expérimentations au LEGI
+## OpenData pour la simulation et les expérimentations au LEGI
 [![Image](https://webcast.in2p3.fr/cache/medium/media/5b/fd/5bfd57fbed5d0/5bfd57fbed5d0.png)](https://webcast.in2p3.fr/video/opendata-pour-la-simulation-et-les-experimentations-au-legi) 
 
-### Synthèse de la journée intéropérabilité et pérennisation des données de la Recherche
+## Synthèse de la journée intéropérabilité et pérennisation des données de la Recherche
 [![Image](https://webcast.in2p3.fr/cache/medium/media/5b/fd/5bfd71a35a3f2/5bfd71a35a3f2.png)](https://webcast.in2p3.fr/video/synthese-de-la-journee-interoperabilite-et-perennisation-des-donnees-de-la-recherche)          
-
