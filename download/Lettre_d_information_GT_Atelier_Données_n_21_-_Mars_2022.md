@@ -1,4 +1,6 @@
---------------------
+---
+title: Lettre numéro 21
+---
 
 Guide de bonnes pratiques numérique responsable pour les organisations – EcoInfo
 https://ecoinfo.cnrs.fr/2022/03/22/guide-de-bonnes-pratiques-numerique-responsable-pour-les-organisations/
