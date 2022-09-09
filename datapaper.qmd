@@ -1,11 +1,8 @@
 ---
 title: "Webinaire Data-Paper"
+subtitle: Une incitation à la qualification et à la réutilisation des jeux de données
 date: 2020-11-05
 tags: [datapaper]
----
-
-Une incitation à la qualification et à la réutilisation des jeux de données
-
 ---
 
 Dans le cadre d’une science ouverte et participative, le data paper permet de rendre plus visible tous les types de données et jeux de
@@ -28,7 +25,7 @@ Qu'avez-vous trouvé dans le data paper qui ne serait pas dans les portails de m
 indispensable et une forme nécessaire de publication accompagnant les données ?. Autant de questions que ce webinaire souhaite aborder
 pour évaluer la place que prend le data paper dans l’écosystème de la donnée scientifique.
 
-### Les documents
+## Les documents
 
 * [Synthèse du Webinaire du 5 novembre Data Paper par Christine Hadrossek](Christine%20Hadrossek%20-%20Synth%C3%A8se%20webinaire%20du%205%20novembre%20Data%20Paper.pdf)
 * [Introduction](Introduction_Stephane_Renault.pdf) : Stéphane Renault
@@ -37,4 +34,4 @@ pour évaluer la place que prend le data paper dans l’écosystème de la donn�
 * Retour d’expérience d’un producteur de data paper : [Victor Gay (Univ. Toulouse 1– École d‘Économie de Toulouse)](REX_TRFGIS_Victor_Gay.pdf)
 * Synthèse du webinaire et échanges (à partir des questions du tchat) : [Joachim Schöpfel (Université Lille 3 – GERiiCO)](Synthese_Joachim_Schopfel.pdf)
  
-### Les vidéos
+## Les vidéos
