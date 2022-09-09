@@ -15,9 +15,6 @@ about:
 
 ---
 
-
-## Présentation
-
 Le [groupe de travail "Atelier Données"](https://www.cnrs.fr/mi/spip.php?article1313) , actuellement
 composé de représentants de plusieurs réseaux  s’attache à construire
 une réflexion sur la gestion des données porteuse d’une vision «

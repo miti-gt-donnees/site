@@ -1,6 +1,6 @@
 ---
 title: "Les Documents"
-tags: [documentation]
+tags: [documents]
 ---
 
 * Les [archives](https://listes.services.cnrs.fr/wws/arc/donnees-inter-reseaux/) de la liste de discussion « donnees-inter-reseaux »

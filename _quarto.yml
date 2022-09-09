@@ -17,10 +17,8 @@ website:
       href: evenements.qmd
     - text: "FAQ"
       href: faq.qmd
-    - text: "FAIR"
-      href: fair.qmd
-    - text: "Documentation"
-      href: documentation.qmd
+    - text: "Documents"
+      href: documents.qmd
     - text: "Webinaires"
       href: webinaires.qmd
     - text: "Contact"
