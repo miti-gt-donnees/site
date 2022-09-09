@@ -1,32 +1,8 @@
 ---
-title: "Présentation"
+title: "Evènements"
 description: |
-Atelier Données : un gt (inter-réseaux) pour des apports croisés des métie    rs sur la gestion des données de la recherche
-output:
-  distill::distill_article:
-    self_contained: false
-    toc: true
-    toc_depth: 3
+  Actions organisées par le groupe
 ---
-
-Le [groupe de travail "Atelier Données"](https://www.cnrs.fr/mi/spip.php?article1313) , actuellement
-composé de représentants de plusieurs réseaux  s’attache à construire
-une réflexion sur la gestion des données porteuse d’une vision «
-métiers » et « réseaux ».
-
-A partir d’une réflexion de type « cycle de vie de la donnée », il
-se propose de cartographier les usages dans chaque réseau autour
-de la gestion de la donnée.
-
-![logo](images/gt-donnees-logo.png)
-
-Notre lettre de mission contient les élements suivants :
-
-- Construire et diffuser une vision transversale de la gestion des données afin d’enrichir la pratique de chaque réseau dans le domaine des données et permettre le développement de la complémentarité entre réseaux.
-- Valoriser l’apport des expériences et expertises « métier » dans une vision transversale de gestion de données dans les réseaux technologiques et scientifiques de la MI.
-- Sensibiliser les communautés professionnelles de l’appui à la gestion des données (organisation de journées thématiques par exemple).
-- Identifier les problématiques concernant les « data » dans chaque réseau (livrables à définir).
-- Mettre en commun et partager de nouvelles pratiques en réseau et au sein de chaque réseau.
 
 En 2017, le groupe a proposé un [document](GTInterreseaux-CartoSyntheseV6-optimise.pdf)
  qui cartographie les usages dans chaque réseau autour de la gestion de la donnée.

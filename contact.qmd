@@ -9,7 +9,7 @@ gt-donnees-inter-reseaux @ groupes.renater.fr
 
 - CALCUL
 - DEVLOG
-- DIST CNRS
+- DDOR CNRS
 - MEDICI
 - QER
 - RBDD

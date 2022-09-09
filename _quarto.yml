@@ -8,18 +8,12 @@ website:
   
   page-footer: 
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/), with theme from [vetiver](https://github.com/rstudio/vetiver.rstudio.com)"
-    left: "&copy; CC-By NASA Openscapes"
+    left: "&copy; CC-By Atelier données"
  
   navbar:
-    logo: images/openscapes_hex.png
+    logo: images/gt-donnees-logo.png
     href: https://gt-atelier-donnees.miti.cnrs.fr
     right:
-    # - text: "Home"
-    #   href: index.html
-    - text: "About"
-      href: about.qmd
-    - text: "Contact"
-      href: contact.qmd
     - text: "Datapaper"
       href: datapaper.qmd
     - text: "FAQ"
@@ -29,7 +23,9 @@ website:
     - text: "Documentation"
       href: documentation.qmd
     - text: "Evènements"
-      href: events.qmd
+      href: evenements.qmd
+    - text: "Contact"
+      href: contact.qmd
     - icon: github
       href: https://github.com/miti-gt-donnees
     - icon: twitter
@@ -41,5 +37,5 @@ format:
     css: styles.css
     toc: true
     toc-title: Contents
-    toc-location: left
+    toc-location: body
 

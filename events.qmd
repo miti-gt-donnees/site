@@ -1,7 +1,0 @@
----
-title: "Evènements"
-description: |
-  Actions organisées par le groupe
----
-
-## 2022  

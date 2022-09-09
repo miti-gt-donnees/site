@@ -1,5 +1,13 @@
 ---
-title: "Foire Aux Questions"
+title: ""
+title-block-banner: true
+format:
+   html:
+     theme: [sandstone, custom.scss]
+     css: styles.css
+     toc: true
+     toc-title: "Foire Aux Questions"
+     toc-location: body
 ---
 
 Cette FAQ est la synthèse des échanges qui se sont tenus lors de
@@ -8,36 +16,7 @@ de recherche ?](https://mi-gt-donnees.pages.math.unistra.fr/fair/)
 " ». Elle est depuis enrichie régulièrement des
 discussions sur la liste données.
 
----
- 
-* [Quels sont les points de vigilance pour préparer le partage de données ?](#vigilance)
-* [Quels sont les formats à privilégier pour le partage de données ?](#partage)
-* [Pourquoi et comment choisir une convention de nommage de fichiers ?](#convention)
-* [Comment choisir l'endroit où déposer les données ?](#endroit) 
-* [Qu'est ce qu'un entrepôt de données ?](#definition)
-* [Comment choisir un entrepôt ?](#choisir)
-* [Quels sont les critères à prendre en compte pour sélectionner un entrepôt ?](#entrepot)
-* [Quelle est la durée de vie d'un dépôt de jeux de données dans un entrepôt ?](#duree)
-* [Pourquoi les données doivent-elles disposer d'un identifiant pérenne ?](#perenne) 
-* [Comment citer mes données ?](#citer)
-* [Est-ce qu'il y a des métadonnées indispensables pour déposer ?](#indis)
-* [Est-ce que les métadonnées métiers sont indispensables pour déposer un jeu de données ?](#indispensable)
-* [Ai-je vraiment besoin d'un vocabulaire contrôlé pour déposer les données ?](#vocabulaire)
-* [Quelle licence choisir ?](#licence)
-* [Est-ce que les données sont nécessairement ouvertes ?](#ouvertes)
-* [Comment définir un jeu de données ?](#definir)
-* [Est-il utile de déposer les données à plusieurs endroits ?](#endroits)
-* [Quelles sont les types d'API proposés par les entrepôts ?](#API)
-* [Quelles sont les différences entre les plans de gestion de données et les datapapers ?](#PGD)
-* [Quels sont les principaux points de vigilance à respecter sur le plan juridique avant de déposer un jeu de données dans un entrepôt ?](#juridicque)
-* [Quelles sont les conditions de réutilisation des données de la recherche déposée dans un entrepôt de données ?](#exception)
-* [Ou peut-on trouver des listes de revues publiant des data-papers](#ouliste)![](images/new.gif)![](images/new.gif)
-* [Est-il possible de publier un nouveau data-paper si les données ont évolué ?](#evoluer)![](images/new.gif)![](images/new.gif)
-* [Qu'est ce qu'un data-paper ?](#datapaper)![](images/new.gif)![](images/new.gif)
-
----
- 
-### Quels sont les points de vigilance pour préparer le partage de données ? {#vigilance}
+## Quels sont les points de vigilance pour préparer le partage de données ? {#vigilance}
 
 Pour bien préparer le partage des données, il est recommandé : 
  * de penser **cycle de vie de la donnée** avant même qu'elle soit générée, c'est à dire dès l'origine du projet. Ceci permet notamment d'expliciter très clairement l'ouverture des données à l'ensemble des partenaires du projet
@@ -53,7 +32,7 @@ Pour vous aider dans cette tâche il est fortement conseillé de recourir à la 
 
 Appuyez-vous sur ce plan pour répondre aux questions incontournables qui vous prépareront à un partage et une gestion optimum des données (cf. la plateforme DMP Opidor du CNRS/INIST [https://dmp.opidor.fr/](https://dmp.opidor.fr)) 
 
-### Quels sont les formats à privilégier pour le partage de données ? {#partage}
+## Quels sont les formats à privilégier pour le partage de données ? {#partage}
 
 Le format des données numériques étant important pour le partage et la préservation pérenne des données, il convient de :
 
@@ -69,7 +48,7 @@ de ne lire qu'un bout de tableau, ce qui peut permettre des économies
 conséquentes en termes de transfert de données (et donc d'impact
 environnemental négatif)
 
-### Pourquoi et comment choisir une convention de nommage de fichiers ? {#convention}
+## Pourquoi et comment choisir une convention de nommage de fichiers ? {#convention}
 
 Construire et appliquer des règles communes de nommage est important
 pour faciliter l'accès et le partage des fichiers. Pour que les
@@ -91,7 +70,7 @@ Plusieurs recommandations ont été publiées auxquelles il est possible de se r
  * Stanford Libraries <https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming> 
  * University of Edimburgh <https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions> 
 
-### Comment choisir l'endroit où déposer les données ? {#endroit}
+## Comment choisir l'endroit où déposer les données ? {#endroit}
 
 Il est important que l'endroit où seront stockées les données soit
 identifiable et partagé par une large communauté de personnes
@@ -102,7 +81,7 @@ les données dans **un entrepôt de données** et si possible un
 CoreTrustSeal
 <https://www.coretrustseal.org/why-certification/certified-repositories/> )
 
-### Qu'est ce qu'un entrepôt de données ? {#definition}
+## Qu'est ce qu'un entrepôt de données ? {#definition}
 
 un entrepôt de données est un dépôt central informatique contenant
 des données décrites par un ensemble minimum de métadonnées (titre,
@@ -112,7 +91,7 @@ des données à plus ou moins long terme ainsi que la pérennisation
 des moyens d'identification (identifiant ou moyen d'accès). DataSuds
 (https://dataverse.ird.fr/) est un exemple d'entrepôts de données.
 
-### Comment choisir un entrepôt ? {#choisir}
+## Comment choisir un entrepôt ? {#choisir}
 
 Il existe beaucoup d'entrepôts de données, de nature et de qualité
 différentes. Certains sont des entrepôts Institutionnels (Portail
@@ -129,7 +108,7 @@ conseillé de vérifier si l'établissement dans lequel vous exercez
 a mis en place une politique de partage de données et de s'y référer
 pour éviter la dispersion des données tout azimut.
 
-### Quels sont les critères à prendre en compte pour sélectionner un entrepôt ? {#entrepot}
+## Quels sont les critères à prendre en compte pour sélectionner un entrepôt ? {#entrepot}
 
 Il convient de prendre des précautions et de s'assurer de la qualité
 de l'entrepôt. Il convient de prendre en compte les
@@ -140,7 +119,7 @@ licence, identifiant pérenne, facilite/aide dépôt, gestion des accès
 d’usages, localisation du serveur, organisme responsable de l’entrepôt,
 visibilité, conservation sécurisée, visualisation, coût…
 
-### Quelle est la durée de vie d'un dépôt de jeux de données dans un entrepôt? {#duree}
+## Quelle est la durée de vie d'un dépôt de jeux de données dans un entrepôt? {#duree}
 
 Cette information dépend de la politique de l'entrepôt. Un entrepôt
 n'est pas une archive. Les temps de rétention des entrepôts sont
@@ -152,7 +131,7 @@ currently the lifetime of the host laboratory CERN, which currently
 has an experimental programme defined for the next 20 years at
 least."
 
-### Pourquoi les données doivent-elles disposer d'un identifiant pérenne ? {#perenne}
+## Pourquoi les données doivent-elles disposer d'un identifiant pérenne ? {#perenne}
 
 Pour qu'elles soient trouvables, visibles et accessibles au même
 titre que les publications. Pour qu'elles soient plus facilement
@@ -169,7 +148,7 @@ Pour en savoir plus sur les identifiants pérennes :
  * <https://doranum.fr/identifiants-perennes-pid/>
  * <https://seminaire.inrae.fr/data/content/download/3449/36374/version/1/file/03+Yahia+doi+datacite.pdf>
 
-### Comment citer mes données ? {#citer}
+## Comment citer mes données ? {#citer}
 
 Les entrepôts proposent en général un format de citation. Pour les
 autres types de dépôt, veillez à ce qu'une formule soit proposée
@@ -188,7 +167,7 @@ pensez à lui notifier l'article dès que celui-ci est publié pour
 que l'entrepôt puisse établir un lien depuis le jeu de données cité
 vers votre article.
 
-### Est ce qu'il y a des métadonnées indispensables pour déposer ? {#indis}
+## Est ce qu'il y a des métadonnées indispensables pour déposer ? {#indis}
 
 En général les entrepôts proposent une liste de métadonnées allant
 du générique aux spécifiques. C'est aussi un critère important pour
@@ -219,7 +198,7 @@ Les métadonnées sont le plus souvent modifiables après la création
 du dépôt et de l'identifiant unique, ce qui n'est en général pas
 le cas du jeu de données.
 
-### Est-ce que les métadonnées métiers sont indispensables pour déposer un jeu de données ?  {#indispensable}
+## Est-ce que les métadonnées métiers sont indispensables pour déposer un jeu de données ?  {#indispensable}
 
 Il est indispensable de documenter et d'expliquer les termes utilisés
 pour nommer les données. Dans le domaine environnemental, on peut
@@ -235,7 +214,7 @@ Pour en savoir plus sur la notion de datapapers (qui sont une
 publication sur les données), vous pouvez aller sur le site de
 Doranum.
 
-### Ai-je vraiment besoin d'un vocabulaire contrôlé pour déposer les données ?  {#vocabulaire}
+## Ai-je vraiment besoin d'un vocabulaire contrôlé pour déposer les données ?  {#vocabulaire}
 
 Il est possible de déposer un jeu de données sans disposer
 nécessairement d'un **vocabulaire contrôlé** pour le décrire mais
@@ -243,7 +222,7 @@ s'appuyer sur un lexique ou un vocabulaire contrôlé permet d'optimiser
 la recherche d'information et de permettre l'interopérabilité
 sémantique entre différents jeux de données.
 
-### Quelle licence choisir ? {#choisir}
+## Quelle licence choisir ? {#licence}
 
 La loi pour une république numérique impose de choisir une licence
 parmi les licences suivantes pour les données ouvertes
@@ -264,7 +243,7 @@ données publiques data.gouv.fr. La licence est aussi un critère
 important pour choisir un entrepôt de données. Il faut veiller à
 ce que la licence que vous choisissez soit disponible sur l’entrepôt
 
-### Est-ce que les données sont nécessairement ouvertes? {#ouvertes}
+## Est-ce que les données sont nécessairement ouvertes? {#ouvertes}
 
 Il n'est pas nécessaire de rendre public tous les jeux de données.
 Le principe est le suivant : les données doivent être aussi ouvertes
@@ -277,7 +256,7 @@ France. 2017, 45 p.
 ⟨[10.15454/1.481273124091092E12](https://dx.doi.org/10.15454/1.481273124091092E12)⟩.
 ⟨[hal-02791224](https://hal.inrae.fr/hal-02791224)⟩".
 
-### Comment définir un jeu de données ?  {#definir}
+## Comment définir un jeu de données ?  {#definir}
 
 « *Peut être défini comme l’agrégation, sous une forme lisible, de
 données brutes ou dérivées présentant une certaine « **unité** »,
@@ -288,7 +267,7 @@ réfléchir à la granularité du jeu de données. Attention, dans le
 cas des logiciels, un jeu de données peut être le code source ainsi
 que la documentation associée
 
-### Est-il utile de déposer les données à plusieurs endroits ?  {#endroits}
+## Est-il utile de déposer les données à plusieurs endroits ?  {#endroits}
 
 Cette pratique n'est pas interdite, mais est fortement déconseillée.
 Un dépôt dans un entrepôt permet d'obtenir un identifiant pérenne.
@@ -301,14 +280,14 @@ Deux cas se posent :
 * Si les données appartiennent exactement au même jeu de données, il ne faut surtout pas dupliquer le jeu de données mais utiliser la notion de collections virtuelles qui existent sur de nombreuses plateformes (DataSuds / Zenodo / ..).
 * Si les mêmes données appartiennent à plusieurs jeux de données, les données peuvent se retrouver de facto être déposé à plusieurs endroits mais il n'est pas conseillé de le faire. Dans ce cas, il faut peut être réflechir aux critères utilisés pour définir le jeu de donnée. 
 
-### Quelles sont les types d'API proposés par les entrepôts ?  {#API}
+## Quelles sont les types d'API proposés par les entrepôts ?  {#API}
   
 * OAI-PMH (accès distants)
 * Native API (dépot de données et publication)
 * API de présentation de données (DC, json-ld)
 * Sword API (dépôt), Search API, Data access API, Metrics API et Native API sont les API proposées par Dataverse
  
-### Quelles sont les différences entre les plans de gestion de données et les datapapers ?  {#PGD}
+## Quelles sont les différences entre les plans de gestion de données et les datapapers ?  {#PGD}
 
 Les plans de gestion de données (PGD) sont créés dès le début d'un
 projet (voire en phase exploratoire) et l'accompagnent. Ils décrivent
@@ -337,7 +316,7 @@ différentes. Les datapapers sont dédiés à la publication scientifique
 et n'ont qu'une version alors que les PGD permettent une meilleure
 gestion du projet.
 
-### Quels sont les principaux points de vigilance à respecter sur le plan juridique avant de déposer un jeu de données dans un entrepôt ?
+## Quels sont les principaux points de vigilance à respecter sur le plan juridique avant de déposer un jeu de données dans un entrepôt ?
 
 Avant de déposer un jeu de données dans un entrepôt, il convient
 de vérifier si celui-ci **s’inscrit dans le principe d’ouverture
@@ -359,7 +338,7 @@ Nous vous conseillons de consulter le [logigramme établi par l’institut paste
 le [Guide d’analyse du cadre juridique en France](https://www.ouvrirlascience.fr/wp-content/uploads/2018/11/Guide_Juridique_V2.pdf)
 et le [guide RGPD de l’INSHS](https://www.inshs.cnrs.fr/sites/institut_inshs/files/pdf/guide-rgpd_2.pdf).
 
-### Quelles sont les conditions de réutilisation des données de la recherche déposée dans un entrepôt de données ?  {#juridicque}
+## Quelles sont les conditions de réutilisation des données de la recherche déposée dans un entrepôt de données ?  {#juridicque}
 
 Les données déposées dans un entrepôt de données sont destinées à
 être réutilisées selon les termes de la licence associée au jeu de
@@ -373,7 +352,7 @@ n’est précisée, cela ne signifie pas pour autant que la réutilisation
 est libre, car des droits peuvent s’appliquer automatiquement
 (propriété intellectuelle, protection des données personnelles).
 
-### Où peut-on trouver des listes de revues publiant des data-papers ? {#ouliste}
+## Où peut-on trouver des listes de revues publiant des data-papers ? {#ouliste}
 
 Il n’existe pas à ce jour de catalogue ou de répertoire à proprement
 dit mais nous vous recommandons la consultation de ces listes de
@@ -385,7 +364,7 @@ et dans le domaine de la Bio-Diversité
 ([GBIF](http://www.gbif.fr/page/contrib/publier-un-datapaper)))
 (Liste mise à jour le 20/11/2020)
 
-### Est-il possible de publier un nouveau data-paper si les données ont évolué ? {#evoluer}
+## Est-il possible de publier un nouveau data-paper si les données ont évolué ? {#evoluer}
 
 Il est tout à fait possible de publier un nouveau data-paper si les
 données ont évolué. Voici par exemple, un data-paper publié l'année
@@ -398,7 +377,7 @@ Hufkens, K., Milliman, T. et al. Tracking vegetation phenology
 across diverse North American biomes using PhenoCam imagery. Sci
 Data 5, 180028 (2018). https://doi.org/10.1038/sdata.2018.28).
 
-### Qu'est ce qu'un data-paper ? {#datapaper}
+## Qu'est ce qu'un data-paper ? {#datapaper}
 
 Un data paper est nécessairement une publication scientifique,
 validée par les pairs. Mais le data-paper se distingue des articles
