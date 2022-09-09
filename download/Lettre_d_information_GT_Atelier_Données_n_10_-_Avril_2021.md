@@ -1,4 +1,7 @@
-#Lettre d’information GT Atelier Données n° 10 – Avril 2021
+---
+title: Lettre d’information GT Atelier Données n° 10 
+date: 2021-04
+---
 
 
 Nouvelle URL pour le site du groupe de travail sur les Données
