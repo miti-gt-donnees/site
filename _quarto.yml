@@ -10,7 +10,6 @@ website:
     left: "&copy; Ce(tte) œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)."
  
   navbar:
-    logo: images/gt-donnees-logo.png
     href: https://gt-atelier-donnees.miti.cnrs.fr
     right:
     - text: "Evènements"
@@ -20,7 +19,13 @@ website:
     - text: "Documents"
       href: documents.qmd
     - text: "Webinaires"
-      href: webinaires.qmd
+      menu:
+        - href: datapaper.qmd
+          text: "Datapaper"
+        - href: wikidata.qmd
+          text: "Wikidata"
+        - href: qualite.qmd
+          text: "Qualité des données"
     - text: "Contact"
       href: contact.qmd
     - icon: github
@@ -30,7 +35,7 @@ website:
 
 format:
   html:
-    theme: [sandstone, custom.scss]
+    theme: cosmo
     css: styles.css
     toc: true
     toc-title: " "
