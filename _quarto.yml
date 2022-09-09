@@ -13,22 +13,18 @@ website:
     logo: images/gt-donnees-logo.png
     href: https://gt-atelier-donnees.miti.cnrs.fr
     right:
-    - text: "Datapaper"
-      href: datapaper.qmd
+    - text: "Evènements"
+      href: evenements.qmd
     - text: "FAQ"
       href: faq.qmd
     - text: "FAIR"
       href: fair.qmd
     - text: "Documentation"
       href: documentation.qmd
-    - text: "Evènements"
-      href: evenements.qmd
+    - text: "Webinaires"
+      href: webinaires.qmd
     - text: "Contact"
       href: contact.qmd
-    - text: "Wébinaire qualité"
-      href: qualite.qmd
-    - text: "Wébinaire wikidata"
-      href: wikidata.qmd
     - icon: github
       href: https://github.com/miti-gt-donnees
     - icon: twitter
