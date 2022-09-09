@@ -387,3 +387,67 @@ ni de conclusions.
 
 Attention : Le contenu d'un data-paper peut différer d'une revue à
 une autre et dépendra de la ligne éditoriale de la revue éditrice.
+
+## Comment peut-on traduire data-journal et data-paper ? {#traduction}
+
+D\'après le [Journal Officiel JORF n°0157 du 9 juillet
+2019](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038736904/), on
+peut traduire data-journal par revue de données et data-paper par
+publication de données
+
+## Qu\'est ce que la curation des données ? {#curation}
+
+La curation des données est l\'ensemble des activités visant à
+maintenir, préserver, valoriser les données numériques de la recherche à
+travers leur cycle de vie. Le travail de curation porte sur la qualité
+des données (correction des erreurs, etc\...) et leur pérennité. Pour
+aller plus loin [Les deux faces de la curation
+scientifique](https://www.cairn.info/revue-documentaliste-sciences-de-l-information-2012-1-page-24.htm#pa61)
+
+## Comment sont attribués les DOI ? {#attribution}
+
+DataCite et Crossref sont les 2 principales agences d\'enregistrement de
+DOI membres de l\'IDF (international DOI Foundation).\
+L\'Inist-CNRS est le **Consortium Lead** du Consortium français membre
+de DataCite. Il est habilité à attribuer aux adhérents de ce consortium
+des comptes (identifiant, mot de passe et préfixe) pour la création de
+DOI (DataCite). Pour pouvoir être membre du consortium, il faut-être à
+but non lucratif et créer moins de dix milles (10 000) DOI par an. Une
+organisation peut, si elle le souhaite, adhérer directement à DataCite
+(même si elle est à but non lucratif) sans passer par l\'Inist,
+cependant le coût minimal est de 2500 euros/an.\
+Jusqu\'au 31 décembre 2020, toutes les organisations ayant acquis un
+compte DataCite via l\'Inist ont pour racine **INIST** pour leur
+identifiant comme par exemple INIST.UPVM3, INIST.IFREMER ou INIST.EHESS.
+Cependant avec le nouveau **Membership Model** appliqué à partir de
+janvier 2021 il y a 2 dénominations différentes pour chaque adhérent :\
+Le nom et l\'identifiant du membre (exemple : Member name \'French
+National Centre for Scientific Research\' ; et Member ID **JBRU**)
+appelé aussi **Provider**.\
+Un ou plusieurs entrepôts (appelés aussi **Client**) avec chacun un nom
+et un identifiant. L\'identifiant de (ou des) l\'entrepôt commence par
+le l\'Identifiant du membre (par exemple l\'identifiant pour l\'Institut
+d\'Astrophysique de Paris, l\'UMR7095 ; qui a ouvert un compte auprès de
+l\'Inist au mois de février 2021 est JBRU.IAP). Par contre, comme
+indiqué plus haut, tous les comptes créés avant 2021 gardent leur racine
+**INIST** (exemple l\'UMR 6074 IRISA est considéré \'entrepôt\' CNRS
+donc appartenant au membre JBRU mais son Identifiant commence par INIST
+(INIST.IRISA) et non pas par JBRU car leur compte a été créé en 2019).
+
+## Comment déterminer l\'organisme fournisseur dans un identifiant DOI ? {#fournisseur}
+
+Il existe deux méthodes: La première est par lecture dans un navigateur
+des métadonnées accompagnant un identifiant DOI. Dans un premier temps,
+vous devez entrer le préfixe du DOI de l\'organisme recherché dans le
+moteur de recherche du site internet
+[Datacite](https://search.datacite.org/) (par exemple 10.48502) suivi
+d\'un slash et d\'une étoile (soit 10.48502/\*). Vous obtiendrez une
+liste de tous les identifiants DOI possédant ce préfixe. En cliquant sur
+l\'URL de l\'un d\'entre eux, vous pourrez accéder aux métadonnées de
+cet identifiant et le champ Repository en haut à droite de la page vous
+permettra d\'accéder au nom du fournisseur. La seconde s\'effectue par
+la lecture brute des résultats de l\'API proposé par Datacite, soit dans
+notre exemple <https://api.datacite.org/prefixes/10.48502> et le champ
+providers. L\'utilisation du moteur de recherche de Datacite pour les
+fournisseurs <https://search.datacite.org/members> peut vous permettre
+d\'obtenir des informations complémentaires.

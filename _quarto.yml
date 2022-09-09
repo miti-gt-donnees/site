@@ -3,12 +3,11 @@ project:
 
 website:
   title: "Atelier Données"
-  site-url: https://nasa-openscapes.github.io/
-  favicon: images/openscapes_hex.png  
+  site-url: https://mi-gt-donnees.pages.math.unistra.fr/quarto
   
   page-footer: 
     right: "Ce site a été créé avec [Quarto](https://quarto.org/)"
-    left: "&copy; CC-By Atelier données"
+    left: "&copy; Ce(tte) œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)."
  
   navbar:
     logo: images/gt-donnees-logo.png
@@ -26,6 +25,10 @@ website:
       href: evenements.qmd
     - text: "Contact"
       href: contact.qmd
+    - text: "Wébinaire qualité"
+      href: qualite.qmd
+    - text: "Wébinaire wikidata"
+      href: wikidata.qmd
     - icon: github
       href: https://github.com/miti-gt-donnees
     - icon: twitter

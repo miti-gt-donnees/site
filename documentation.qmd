@@ -1,6 +1,5 @@
 ---
 title: "Les Documents"
-date: 2020-12-18
 tags: [documentation]
 ---
 
@@ -10,3 +9,55 @@ tags: [documentation]
 * La [cartographie](GTInterreseaux-CartoSyntheseV6-optimise.pdf) des usages dans chaque réseau autour de la gestion de la donnée
 * Les [enregistrements](https://webcast.in2p3.fr/container/interoperabilite-et-perennisation-des-donnees-de-la-recherche) faits lors de la journée « Interopérabilité et pérennisation des données de la recherche : comment FAIR En pratique ? Retours d'expériences »
 * Le [livret](Livret_FAIR_2018.pdf) de la journée « Interopérabilité et pérennisation des données de la recherche : comment FAIR En pratique ? Retours d'expériences »
+* [Présentation du GT Atelier Données](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Atelier_Donnees_17052021.pdf) lors de la réunion des coordinateurs des réseaux MITI (17/05/2021)
+* [Présentation du GT Atelier Données](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Atelier_Donnees_20220420.pdf) lors de la réunion des coordinateurs des réseaux MITI (20/04/2022)
+
+
+-   [Le guide de bonnes pratiques sur la gestion des données de la
+    recherche](https://mi-gt-donnees.pages.math.unistra.fr/guide/00-introduction.html)
+-   Le webinaire de présentation du guide (Janvier 2021)
+    ([video](https://www.canal-u.tv/video/atelier_donnees/presentation_du_guide_de_bonnes_pratiques_des_donnees_de_la_recherche.59537),
+    [pdf](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Guide_Bonnes_Pratiques_Janvier_2021.pdf))
+
+
+-   [Lettre d\'information GT Atelier Données n°1 - Juin
+    2020](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_1_-_Juin_2020.pdf)
+-   [Lettre d\'information GT Atelier Données n°2 - Juillet
+    2020](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_2_-_Juillet_2020.pdf)
+-   [Lettre d\'information GT Atelier Données n°3 - Septembre
+    2020](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_3_-_Septembre_2020.pdf)
+-   [Lettre d\'information GT Atelier Données n°4 - Octobre
+    2020](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_4_-_Octobre_2020.pdf)
+-   [Lettre d\'information GT Atelier Données n°5 - Novembre
+    2020](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_5_-_Novembre_2020.pdf)
+-   [Lettre d\'information GT Atelier Données n°6 - Décembre
+    2020](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_6_-_Décembre_2020.pdf)
+-   [Lettre d\'information GT Atelier Données n°7 - Janvier
+    2021](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_7_–_Janvier_2021.pdf)
+-   [Lettre d\'information GT Atelier Données n°8 - Février
+    2021](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_8_–_Février_2021.pdf)
+-   [Lettre d\'information GT Atelier Données n°9 - Mars
+    2021](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_9___Mars_2021.pdf)
+-   [Lettre d\'information GT Atelier Données n°10 - Avril
+    2021](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_10_-_Avril_2021.pdf)
+-   [Lettre d\'information GT Atelier Données n°11 - Mai
+    2021](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_11_-_Mai_2021.pdf)
+-   [Lettre d\'information GT Atelier Données n°12 - Juin
+    2021](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_12_-_Juin_2021.pdf)
+-   [Lettre d\'information GT Atelier Données n°13 - Juillet
+    2021](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_13_-_Juillet_2021.pdf)
+-   [Lettre d\'information GT Atelier Données n°14 - Aout
+    2021](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_14_-_Aout_2021.pdf)
+-   [Lettre d\'information GT Atelier Données n°15 - Septembre
+    2021](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_15_-_Septembre_2021.pdf)
+-   [Lettre_d'information_GT_Atelier_Données_n°\_16\_-\_Octobre_2021.pdf](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_16_-_Octobre_2021.pdf)
+-   [Lettre_d\'information_GT_Atelier_Données_n°\_17\_-\_Novembre_2021.pdf](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_17_-_Novembre_2021.pdf)
+-   [Lettre_d\'information_GT_Atelier_Données_n°\_18_Décembre_2021.pdf](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_18_Decembre_2021.pdf)
+-   [Lettre_d\'information_GT_Atelier_Données_n°\_19_Janvier_2022.pdf](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_19_Janvier_2022.pdf)
+-   [Lettre_d\'information_GT_Atelier_Données_n°\_20_Février_2022.pdf](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_20_-_Février_2022.pdf)
+-   [Lettre_d\'information_GT_Atelier_Données_n°\_21_Mars_2022.pdf](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_21_-_Mars_2022.pdf)
+-   [Lettre_d\'information_GT_Atelier_Données_n°\_22_Avril_2022.pdf](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_22_-_Avril_2022.pdf)
+-   [Lettre_d\'information_GT_Atelier_Données_n°\_23_Mai_2022.pdf](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_23_-_Mai_2022.pdf)
+-   [Lettre_d\'information_GT_Atelier_Données_n°\_24_Juin_2022.pdf](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Lettre_d_information_GT_Atelier_Données_n_24_-_Juin_2022.pdf)
+
+

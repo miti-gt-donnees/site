@@ -35,3 +35,23 @@ pour évaluer la place que prend le data paper dans l’écosystème de la donn�
 * Synthèse du webinaire et échanges (à partir des questions du tchat) : [Joachim Schöpfel (Université Lille 3 – GERiiCO)](Synthese_Joachim_Schopfel.pdf)
  
 ## Les vidéos
+
+- Introduction du Webinaire
+
+<iframe width="560" height="315" src="https://www.canal-u.tv/embed/81841?t=0" allowfullscreen></iframe>
+
+- Évaluer un data paper : retour d\'expérience de la revue Cybergeo
+
+<iframe width="560" height="315" src="https://www.canal-u.tv/embed/81903?t=0" allowfullscreen></iframe>
+
+- Exemple d'intégration du data paper à un workflow de publication de jeux données
+
+<iframe width="560" height="315" src="https://www.canal-u.tv/embed/81901?t=0" allowfullscreen></iframe>
+
+- Retour d'expérience d'un producteur de data paper
+
+<iframe width="560" height="315" src="https://www.canal-u.tv/embed/81905?t=0" allowfullscreen></iframe>
+
+- Synthèse du webinaire et échanges (à partir des questions du tchat)
+
+<iframe width="560" height="315" src="https://www.canal-u.tv/embed/81843?t=0" allowfullscreen></iframe>
