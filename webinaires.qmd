@@ -2,7 +2,7 @@
 title: "Webinaires"
 ---
 
-# "Datapaper"
+# "Datapaper"{#datapaper}
 
 5 novembre 2020
 
@@ -150,20 +150,18 @@ de différents éléments (infrastructures, projet de recherche, etc).
 
 Mais Wikidata est également
 
--   Une communauté structurée par des règles (administrateurs élus par
-    la communauté, débat sur l\'ajout de nouvelles propriétés, vie
-    privée, etc)
--   Un ensemble d\'outils permettant par exemple l\'importation massive
-    et le contrôle qualité des données.
--   Un ensemble de scripts informatiques, effectuant des tâches
-    automatiques ou semi-automatiques répétitives.
+- Une communauté structurée par des règles (administrateurs élus par
+  la communauté, débat sur l\'ajout de nouvelles propriétés, vie
+  privée, etc)
+- Un ensemble d\'outils permettant par exemple l\'importation massive
+  et le contrôle qualité des données.
+- Un ensemble de scripts informatiques, effectuant des tâches
+  automatiques ou semi-automatiques répétitives.
 
 ## Les documents
 
--   Programme
-    ([pdf](https://gt-atelier-donnees.miti.cnrs.fr/download/2022_04_21_webinaire_Wikidata-Programme.pdf))
--   Le Mooc Wikidata (Amélie Charles - Chargée de mission MOOC,
-    Wikimedia France)
+-   Programme ([pdf](https://gt-atelier-donnees.miti.cnrs.fr/download/2022_04_21_webinaire_Wikidata-Programme.pdf))
+-   Le Mooc Wikidata (Amélie Charles - Chargée de mission MOOC, Wikimedia France)
     ([pdf](https://gt-atelier-donnees.miti.cnrs.fr/download/2022_04_21_webinaire_Wikidata-Charles-MOOC.pdf))
 -   Wikidata et la curation des identifiants pérennes des chercheurs
     (Pascal Martinolli - Université de Montréal)
@@ -176,15 +174,15 @@ Mais Wikidata est également
 
 ## Les vidéos
 
-- Wikidata et la curation des identifiants pérennes des chercheurs (Pascal Martinolli - Université de Montréal)
+### Wikidata et la curation des identifiants pérennes des chercheurs (Pascal Martinolli - Université de Montréal)
 
 i<iframe width="560" height="315" src="https://www.canal-u.tv/embed/116469?t=0" allowfullscreen></iframe>
 
-- Gérer, partager et interroger grâce à Wikibase des référentiels d\'autorité pour la recherche : l\'exemple de data.biblissima (Régis Robineau - Biblissima + Campus Condorcet)
+### Gérer, partager et interroger grâce à Wikibase des référentiels d\'autorité pour la recherche : l\'exemple de data.biblissima (Régis Robineau - Biblissima + Campus Condorcet)
 
 <iframe width="560" height="315" src="https://www.canal-u.tv/embed/116615?t=0" allowfullscreen></iframe>
 
-- Intégration de Wikibase dans OpenRefine et protocole de réconciliation ((Antonin Delpeuch - OpenRefine / InfAI))
+### Intégration de Wikibase dans OpenRefine et protocole de réconciliation ((Antonin Delpeuch - OpenRefine / InfAI))
 
 <iframe width="560" height="315" src="https://www.canal-u.tv/embed/116614?t=0" allowfullscreen></iframe>
 

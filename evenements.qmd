@@ -8,10 +8,10 @@ En 2017, le groupe a proposé un [document](GTInterreseaux-CartoSyntheseV6-optim
 			
 En 2018, le groupe a organisé une journée thématique inter-réseaux « Interopérabilité et pérennisation des données de la recherche : Comment FAIR en pratique ? » : [pdf](https://gt-donnees2018.sciencesconf.org/), [visio](https://webcast.in2p3.fr/container/interoperabilite-et-perennisation-des-donnees-de-la-recherche).
 
-En 2019, le groupe a participé aux journées R2T2 « Atelier données : un gt inter-réseaux pour des apports croisés des métiers sur la gestion des données de la recherche » : [pdf](R2T2_atelier_donn%C3%A9es_Rivet.pdf), [visio](https://webcast.in2p3.fr/video/un-gt-inter-reseaux-pour-des-apports-croises-des-metiers-sur-la-gestion-des-donnees-de-la-recherche).
+En 2019, le groupe a participé aux journées R2T2 « Atelier données : un gt inter-réseaux pour des apports croisés des métiers sur la gestion des données de la recherche » : [pdf](/download/R2T2_atelier_donn%C3%A9es_Rivet.pdf), [visio](https://webcast.in2p3.fr/video/un-gt-inter-reseaux-pour-des-apports-croises-des-metiers-sur-la-gestion-des-donnees-de-la-recherche).
  et a ouvert la liste de discussion [donnees-inter-reseaux](/download/Raison_etre_liste_donnees-inter-reseaux.pdf).
 
-En 2020, le groupe a organisé à Grenoble un hackathon intitulé « [Comment améliorer le dépôt et le partage de données de recherche ?](https://gt-donnees2020.sciencesconf.org) » et un webinaire participatif intitulé «Data Paper : une incitation à la qualification et à la réutilisation des jeux de données » : [pgm](Programme_Webinaire_data_paper_5nov2020_GT_Donnees_MITI.pdf), [pdf / visio](/datapaper/).
+En 2020, le groupe a organisé à Grenoble un hackathon intitulé « [Comment améliorer le dépôt et le partage de données de recherche ?](https://gt-donnees2020.sciencesconf.org) » et un webinaire participatif intitulé «Data Paper : une incitation à la qualification et à la réutilisation des jeux de données » : [pgm](Programme_Webinaire_data_paper_5nov2020_GT_Donnees_MITI.pdf), [pdf / visio](webinaires.qmd#datapaper).
 
 Le groupe est actuellement en cours de finalisation d’un guide pratique qui présente les différentes actions faites par les réseaux
 autour de la gestion des données . Ce guide reprend les 7 étapes définies dans le document « Cartographie des actions des réseaux
