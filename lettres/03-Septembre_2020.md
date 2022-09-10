@@ -5,21 +5,21 @@ data: 2020-09
 
 Entrepôts de données de recherche: mesurer l’impact de l’Open Science à l’aune de la consultation des jeux de données déposés Violaine Rebouillat 
 
-https://hal.archives-ouvertes.fr/hal-02928817/document
+<https://hal.archives-ouvertes.fr/hal-02928817/document>
 
 ************************************************************************************
 
 Rédaction d’un plan de gestion de données : retour d’expérience.
-https://humanum.hypotheses.org/6048
+<https://humanum.hypotheses.org/6048>
 Partie 2.
-https://humanum.hypotheses.org/6196
+<https://humanum.hypotheses.org/6196>
 
 ************************************************************************************
 
 SIST 2020 : Séries Interopérables et Systèmes de Traitement  (SOUS RESERVE !!!!!! )
 La 5ème édition du séminaire SIST (Séries Interopérables et Systèmes de Traitement) aura lieu du 29 septembre au 1er octobre 2020 à l'Observatoire de Lyon.
 
-https://sist20.sciencesconf.org/
+<https://sist20.sciencesconf.org/>
 
 mardi 29 septembre 2020
 14:45 - 15:30     Point technique IR Data Terra et pôles de données (Salle de séminaire) - Joël Sudre (IR Data Terra)
@@ -42,21 +42,21 @@ mercredi 30 septembre 2020
 
 ************************************************************************************
 
-Deboin, M.C.. 2020. Trouver des jeux de données via des bases pluridisciplinaires et des moteurs de recherche. Montpellier (FRA) : CIRAD, 5 p. https://doi.org/10.18167/coopist/0071
+Deboin, M.C.. 2020. Trouver des jeux de données via des bases pluridisciplinaires et des moteurs de recherche. Montpellier (FRA) : CIRAD, 5 p. <https://doi.org/10.18167/coopist/0071>
 
 ************************************************************************************
 
 Tuto@Mate#25 Lionel Maurel A qui appartiennent les données ?
 
 Ainsi le tuto permet de répondre à une série d’interrogations telles que : Dans un projet de recherche avec plusieurs collaborateurs qu’ils soient chercheurs, IT ou doctorants, membres d’un laboratoire ou d’un consortium qui est propriétaire des données ? Quand un prestataire met à la disposition d’une équipe de recherche un ensemble de données (entretiens, traitement d’archives, texte numérisé, …) qui est propriétaire ? Selon quelles modalités puis-je partager ou diffuser mes données ?
-Vidéo : https://www.youtube.com/watch?v=3Yw-194v3bA
-PDF : https://mi-gt-donnees.pages.math.unistra.fr/site/download/Institut_Pasteur-Logigramme_fr_v5_15102019.pdf
+Vidéo : <https://www.youtube.com/watch?v=3Yw-194v3bA>
+PDF : <https://mi-gt-donnees.pages.math.unistra.fr/site/download/Institut_Pasteur-Logigramme_fr_v5_15102019.pdf>
 
 ************************************************************************************
 
 Mise à jour de la FAQ du groupe de travail inter-réseaux sur les données
 
-https://mi-gt-donnees.pages.math.unistra.fr/site/FAQ.html
+<https://mi-gt-donnees.pages.math.unistra.fr/site/FAQ.html>
 
 avec cette nouvelle Question/Réponse
 
@@ -72,7 +72,7 @@ Qu’il ne s’agit pas de données à caractère personnel (le cas échéant il
 Que le jeux de données n’est pas concerné par les secrets protégés (secret défense, médical, industriel etc.)
 Que le jeu de données n’est pas concerné par une recherche partenariale (en cas de recherche partenariale entre acteurs public et privés, l’accès et la transmission dépend de l’accord de consortium ou du contrat)
 
-Nous vous conseillons de consulter le logigramme établi par l’institut pasteur https://mi-gt-donnees.pages.math.unistra.fr/site/download/Institut_Pasteur-Logigramme_fr_v5_15102019.pdf, le Guide d’analyse du cadre juridique en France https://www.ouvrirlascience.fr/wp-content/uploads/2018/11/Guide_Juridique_V2.pdf et le guide RGPD de l’INSHS https://www.inshs.cnrs.fr/sites/institut_inshs/files/pdf/guide-rgpd_2.pdf
+Nous vous conseillons de consulter le logigramme établi par l’institut pasteur <https://mi-gt-donnees.pages.math.unistra.fr/site/download/Institut_Pasteur-Logigramme_fr_v5_15102019.pdf>, le Guide d’analyse du cadre juridique en France <https://www.ouvrirlascience.fr/wp-content/uploads/2018/11/Guide_Juridique_V2.pdf> et le guide RGPD de l’INSHS <https://www.inshs.cnrs.fr/sites/institut_inshs/files/pdf/guide-rgpd_2.pdf>
 
 ************************************************************************************
 
@@ -81,4 +81,4 @@ Le Ceraps organise avec le soutien de la MESH un cycle de séminaires sur l'appl
 Le séminaire introductif aura lieu le mercredi 23 septembre prochain à 14h. Il accueillera trois intervenants rompus à l'application de la réglementation dans le domaine de la recherche : Émilie Masson (service Protection des données du CNRS), Sarah Piquette-Muramatsu (DPD de l'université de Strasbourg) et Jean-Luc Tessier (DPD de l'université de Lille). Leurs interventions sera l'occasion d'aborder la mise en œuvre de la protection des données dans les traitements à fin de recherche de façon concrète dans différents domaines et d'opérer un retour d'expérience dans le contexte de l'entrée en application du règlement général sur la protection des données (RGPD).
 
 Le séminaire aura lieu salle R3-48 au Ceraps (1 place Déliot à Lille). Il sera de plus diffusé via la plate-forme BigBlueButton hébergée par l'université de Lille.
--->> https://ceraps.univ-lille.fr/detail-event/seminaire-thematique-la-protection-des-donnees-dans-la-recherche/
+-->> <https://ceraps.univ-lille.fr/detail-event/seminaire-thematique-la-protection-des-donnees-dans-la-recherche/>

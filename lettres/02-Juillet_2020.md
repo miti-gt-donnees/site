@@ -5,28 +5,28 @@ date: 2020-07
 
 vous trouverez le programme de la journée ci-dessous ou sur le site htth://devlog.cnrs.fr/jdev2020
 
-Vous trouverez des canaux de chat pour chaque thematique: https://jdev-chat.insa-rennes.fr/
+Vous trouverez des canaux de chat pour chaque thematique: <https://jdev-chat.insa-rennes.fr/>
 Les informations de connexion.
 Le direct sur le web :
-https://prismes.univ-toulouse.fr/player.php?code=E7l71762&width=100%&height=100%
-https://jdev-chat.insa-rennes.fr/
-https://mediapod.u-bordeaux.fr/live/6/
+<https://prismes.univ-toulouse.fr/player.php?code=E7l71762&width=100%&height=100%>
+<https://jdev-chat.insa-rennes.fr/>
+<https://mediapod.u-bordeaux.fr/live/6/>
 Vous êtes geek, connectez-vous directement au flux réseau avec votre lecteur vidéo préféré:
 
 Vous trouverez des serveurs de flux reseau près de chez vous (plus stables, moins de latence):
 
 Vérifiez ou installez un lecteur vidéo : ffplay, vlc, Gnome/totem, Mkplayer (microsoft et mac)
 
- Pour toute info et assistance : https://jdev-chat.insa-rennes.fr/channel/live
+ Pour toute info et assistance : <https://jdev-chat.insa-rennes.fr/channel/live>
 
 
 Pour les GT d'aujourd'hui. Merci de vous inscrire (mode interactif ou mode écoute):
 
-https://evento.renater.fr/survey/inscription-aux-gt-des-jdev-2020-halwehr5
+<https://evento.renater.fr/survey/inscription-aux-gt-des-jdev-2020-halwehr5>
 
 Finalement, ils se feront en salle1 (choisissez votre mode à la connexion):
 
-https://greenlight.lal.cloud.math.cnrs.fr/b/day-6kg-ky3
+<https://greenlight.lal.cloud.math.cnrs.fr/b/day-6kg-ky3>
 
 13h30-15h00 - T4T6.GT07 - Kubernetes et la gestion de grands volumes de données: des pétaoctets de données cosmiques dans Kubernetes, c'est possible! - Fabrice Jammes (IN2P3/Clermont-Ferrand)
 
@@ -98,31 +98,31 @@ Plénière de la T8 du 8 Juillet 2020
 ***********************************************************
 
 Le data paper, un nouvel outil de communication scientifique?
-https://ternumeric.hypotheses.org/374
+<https://ternumeric.hypotheses.org/374>
 
 ***********************************************************
 
 Un guide d'autoformation aux données de la recherche à destination des professionnels de l'information et de la documentation (prodution du gTIGRE (groupe de travail inter-établissements Grand Est))
-https://zenodo.org/record/3920869#.XvmdzufgrIU
+<https://zenodo.org/record/3920869#.XvmdzufgrIU>
 
 ***********************************************************
 
 Vous êtes chercheur ou chercheuse, enseignant-chercheur ou enseignante-chercheure, ingénieur ou ingénieure, doctorant ou doctorante et vous exercez vos missions en France ?
 Le Comité pour la Science ouverte a initié une enquête nationale sur les pratiques numériques des chercheurs et chercheuses en France qui aura lieu du 17 juin 2020 au 15 septembre 2020.
 Cette enquête a pour objectif de mieux connaître les pratiques des acteurs de la communauté scientifique française en matière d'outils numériques et des données de recherche. Elle est menée par une équipe de recherche pilotée par l'Université de Lyon (Mme Mariannig Le Béchec, ELICO, Urfist de Lyon).
-Votre participation consistera à répondre en ligne à une quarantaine de questions réparties en 9 parties et nécessite une durée estimée à 20 minutes. Si vous êtes intéressé.e.s, vous accéderez au questionnaire ici : https://questions.huma-num.fr/SurveyServer/s/SOSP-FR/outilsnumeriqueschezleschercheursenFrance/questionnaire.htm
+Votre participation consistera à répondre en ligne à une quarantaine de questions réparties en 9 parties et nécessite une durée estimée à 20 minutes. Si vous êtes intéressé.e.s, vous accéderez au questionnaire ici : <https://questions.huma-num.fr/SurveyServer/s/SOSP-FR/outilsnumeriqueschezleschercheursenFrance/questionnaire.htm>
 
-Les résultats donneront lieu notamment à une étude rédigée, un poster et des publications scientifiques. Une restitution publique en France et une restitution publique dans un événement international à l’étranger sont prévues. Vous pouvez également suivre le projet sur : https://ecosisteme.hypotheses.org
+Les résultats donneront lieu notamment à une étude rédigée, un poster et des publications scientifiques. Une restitution publique en France et une restitution publique dans un événement international à l’étranger sont prévues. Vous pouvez également suivre le projet sur : <https://ecosisteme.hypotheses.org>
 
 ***********************************************************
 
 Participez à l’élaboration de la nouvelle feuille de route open data d’Etalab !
-https://www.etalab.gouv.fr/participez-a-lelaboration-de-la-nouvelle-feuille-de-route-open-data-detalab
+<https://www.etalab.gouv.fr/participez-a-lelaboration-de-la-nouvelle-feuille-de-route-open-data-detalab>
 
 ***********************************************************
 
 Parcours interactif sur la gestion des données de la recherche
-https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/
+<https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/>
 
 ***********************************************************
 
@@ -145,4 +145,4 @@ Nous proposons de faire dialoguer histoire, data analyse, et Knowledge Managemen
     L’apport du KM pour une conservation des data agrégées dotée de sens ?
 
 Les nouveaux Paradigmes de l'Archive est un séminaire réalisé en partenariat entre le Labex Hastec, le laboratoire Dicen-IDF Cnam Paris, les Archives Nationales et le Centre Jean Mabillon (ENC)
-Ecoutez les interventions 2019 : https://nparchive.hypotheses.org/captations-des-seances-2019
+Ecoutez les interventions 2019 : <https://nparchive.hypotheses.org/captations-des-seances-2019>
