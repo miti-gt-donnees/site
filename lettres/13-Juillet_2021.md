@@ -1,5 +1,6 @@
 ---
 title: Lettre d’information GT Atelier Données n° 13 – Juillet 2021
+date: 2021-07
 ---
 
 

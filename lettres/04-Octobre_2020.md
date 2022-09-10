@@ -1,5 +1,6 @@
 ---
 title: Lettre d’information GT Atelier Données n° 4 - Octobre 2020
+date: 2020-10
 ---
 
 Le répertoire des Services Opérationnels de Soutien à la rédaction des Plans de Gestion des Données (SOS-PGD) recense les services accompagnant la rédaction des plans de gestion des données au sein des établissements d’enseignement supérieur et de la recherche. Il vise à aider les chercheurs à identifier leurs interlocuteurs au sein de leur institution et à faciliter la mise en relation entre les services supports de différentes institutions pour les projets de recherche multi-partenariaux.

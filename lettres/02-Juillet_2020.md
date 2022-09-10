@@ -1,5 +1,6 @@
 ---
 title: Lettre d’information GT Atelier Données n° 2 - Juillet 2020
+date: 2020-07
 ---
 
 vous trouverez le programme de la journée ci-dessous ou sur le site htth://devlog.cnrs.fr/jdev2020

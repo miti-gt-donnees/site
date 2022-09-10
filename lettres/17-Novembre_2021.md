@@ -1,5 +1,6 @@
 ---
 title: Lettre
+date: 2021-11
 ---
 
 L’entrepôt de données de la recherche de l’Université de Lorraine, DOREL, est en ligne !

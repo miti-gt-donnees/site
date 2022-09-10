@@ -1,5 +1,6 @@
 ---
 title: Lettre
+date: 2022-07
 ---
 
 Appel à Contributions : OpenDataFrance a élaboré un référentiel à destination des acteurs publics pour maitriser l’impact environnemental de la donnée.

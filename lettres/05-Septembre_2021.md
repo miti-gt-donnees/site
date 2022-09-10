@@ -1,5 +1,6 @@
 ---
 title: Lettre
+date: 2020-12
 ---
 
 4e Réunion annuelle de RDA France

@@ -1,5 +1,6 @@
 ---
 title: Lettre
+date: 2021-09
 ---
 
 4e Réunion annuelle de RDA France

@@ -42,4 +42,6 @@ format:
 - [n°22 - Avril_2022](/lettres/22-Avril_2022.md) 
 - [n°23 - Mai_2022](/lettres/23-Mai_2022.md)
 - [n°24 - Juin_2022](/lettres/24-Juin_2022.md)
+- [n°25 - Juillet_2022](/lettres/25-Juillet_2022.md)
+- [n°26 - Aout_2022](/lettres/26-Aout_2022.md)
 

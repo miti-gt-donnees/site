@@ -1,5 +1,6 @@
 ---
 title: Lettre d’information GT Atelier Données n° 5 - Novembre 2020
+date: 2020-11
 ---
 
 Journées Calcul Données : Rencontres scientifiques et techniques du calcul et des données. - Sciencesconf.org

@@ -1,5 +1,6 @@
 ---
 title: Lettre d’information GT Atelier Données n° 7 – Janvier 2021
+date: 2021-01
 ---
 
 Le livre de Christine Borgman  big data little data, no data  est traduit  en français et est disponible chez openeditiion

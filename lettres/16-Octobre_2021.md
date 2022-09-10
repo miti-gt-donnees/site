@@ -1,5 +1,6 @@
 ---
 title: Lettre
+date: 2021-10
 ---
 
 Publication et Consultation publique d'un Référentiel général d'écoconception de service numérique.

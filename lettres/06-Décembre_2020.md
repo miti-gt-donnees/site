@@ -1,5 +1,6 @@
 ---
 title: Lettre d’information GT Atelier Données n° 6 - Décembre 2020
+date: 2020-12
 ---
 
 

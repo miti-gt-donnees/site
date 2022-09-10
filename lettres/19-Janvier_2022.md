@@ -1,5 +1,6 @@
 ---
 title: Lettre
+date: 2022-01
 ---
 
 Focus sur les données de recherche : aspects juridiques

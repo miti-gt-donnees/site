@@ -1,5 +1,6 @@
 ---
 title: Lettre
+date: 2021-12
 ---
 
 AMUE : La collection numérique – N°18 – L’ESR vu par le prisme de la donnée universitaire

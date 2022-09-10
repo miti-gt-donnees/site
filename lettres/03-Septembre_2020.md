@@ -1,5 +1,6 @@
 ---
 title: Lettre d’information GT Atelier Données n° 3 - Septembre 2020
+data: 2020-09
 ---
 
 Entrepôts de données de recherche: mesurer l’impact de l’Open Science à l’aune de la consultation des jeux de données déposés Violaine Rebouillat 
