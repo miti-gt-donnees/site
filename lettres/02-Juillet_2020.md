@@ -3,12 +3,12 @@ title: Lettre d’information GT Atelier Données n° 2 - Juillet 2020
 date: 2020-07
 ---
 
-vous trouverez le programme de la journée ci-dessous ou sur le site htth://devlog.cnrs.fr/jdev2020
+vous trouverez le programme de la journée ci-dessous ou sur le site <http://devlog.cnrs.fr/jdev2020Z
 
 Vous trouverez des canaux de chat pour chaque thematique: <https://jdev-chat.insa-rennes.fr/>
 Les informations de connexion.
 Le direct sur le web :
-<https://prismes.univ-toulouse.fr/player.php?code=E7l71762&width=100%&height=100%>
+<https://prismes.univ-toulouse.fr/player.php?code=E7l71762>
 <https://jdev-chat.insa-rennes.fr/>
 <https://mediapod.u-bordeaux.fr/live/6/>
 Vous êtes geek, connectez-vous directement au flux réseau avec votre lecteur vidéo préféré:
