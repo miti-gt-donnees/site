@@ -1,5 +1,5 @@
 ---
-title: Lettre
+title: Lettre d'information numéro 19
 date: 2022-01
 ---
 

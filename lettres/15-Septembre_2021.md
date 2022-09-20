@@ -1,5 +1,5 @@
 ---
-title: Lettre
+title: Lettre d'information numéro 15
 date: 2021-09
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Lettre
+title: Lettre d'information numéro 17
 date: 2021-11
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Lettre
+title: Lettre d'information numéro 25
 date: 2022-07
 ---
 

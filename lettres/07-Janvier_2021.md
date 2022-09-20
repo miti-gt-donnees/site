@@ -1,5 +1,5 @@
 ---
-title: Lettre d’information GT Atelier Données n° 7 – Janvier 2021
+title: Lettre d’information n°7
 date: 2021-01
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Lettre d’information GT Atelier Données n° 5 - Novembre 2020
+title: Lettre d’information n°5
 date: 2020-11
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Lettre d’information GT Atelier Données n° 3 - Septembre 2020
+title: Lettre d’information n°3
 data: 2020-09
 ---
 
