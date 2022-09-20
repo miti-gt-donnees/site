@@ -5,14 +5,13 @@ title: "Contact"
 La liste [gt-donnees-inter-reseaux](https://groupes.renater.fr/sympa/info/gt-donnees-inter-reseaux)
 
 <h1>Les partenaires</h1>
-
+[![ddor-cnrs](/images/cnrs-logo.jpg)](https://www.science-ouverte.cnrs.fr/ddor-cnrs-direction-des-donnees-ouvertes-de-la-recherche/)
 [![calcul](/images/logo_calcul.png)](https://calcul.math.cnrs.fr/) 
 [![devlog](https://devlog.prod.lamp.cnrs.fr/wp-content/uploads/2020/11/logo_devlog-1.png)](http://devlog.cnrs.fr/)
 [![medici](http://medici.in2p3.fr/fr/images//Logo_Medici4.jpg)](http://medici.in2p3.fr/) 
 [![resinfo](https://resinfo.org/squelettes/images/logo_resinfo.png)](http://resinfo.org/) 
 [![sist](/images/logo_sist.png)](https://sist.cnrs.fr/)
-[![renatis](./images/renatis-logo.jpg)](http://renatis.cnrs.fr//) 
-[![ddor-cnrs](/images/cnrs-logo.jpg)](https://www.science-ouverte.cnrs.fr/ddor-cnrs-direction-des-donnees-ouvertes-de-la-recherche/)
+[![renatis](./images/renatis-logo.png)](http://renatis.cnrs.fr//) 
 [![qer](/images/Logo_Reseau_QeR_petit.jpg)](http://qualite-en-recherche.cnrs.fr/) 
 [![rbdd](/images/index_13.jpg)](http://rbdd.cnrs.fr/)
 [![relier](/images/Logo_RELIER-petit.jpg)](http://www.relier-univ.fr/)
