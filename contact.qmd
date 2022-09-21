@@ -4,50 +4,63 @@ title: "Contact"
 
 La liste [gt-donnees-inter-reseaux](https://groupes.renater.fr/sympa/info/gt-donnees-inter-reseaux)
 
-<h1>Les partenaires</h1>
+
+**DDOR CNRS - Direction des Données ouvertes de la recherche**
+
+<a href="https://www.science-ouverte.cnrs.fr/ddor-cnrs-direction-des-donnees-ouvertes-de-la-recherche"> 
+<img src="images/cnrs-logo.jpg">
+</a>
+
+<h2>Les réseaux partenaires</h2>
 
 <table>
    <tr>
       <td>
-         <a href="https://calcul.math.cnrs.fr"> <img src="images/logo_calcul.png"></a>
-      </td>
-      <td>
-         <a href="https://www.science-ouverte.cnrs.fr/ddor-cnrs-direction-des-donnees-ouvertes-de-la-recherche"> 
-         <img src="images/cnrs-logo.jpg">
-         </a>
+         <a href="https://calcul.math.cnrs.fr"> <img src="images/logo_calcul.png" width=120></a>
       </td>
       <td>
          <a href="http://devlog.cnrs.fr">
-         <img src="logo_devlog.png">)
+         <img src="images/logo_devlog.png" width=160>
+         </a>
+      </td>
+      <td>
+         <a href="http://medici.in2p3.fr">
+         <img src="images/logo_medici.png" width=150>
          </a>
       </td>
    </tr>
    <tr>
       <td>
-      <a href="http://medici.in2p3.fr">
-      <img src="images/logo_medici.png">
-      </a>
+         <a href="http://resinfo.org"> 
+         <img src="images/logo_resinfo.png" width=140>
+         </a>
       </td>
       <td>
-      <img src="images/logo_resinfo.png">
-      <a href="http://resinfo.org"> </a>
+         <a href="https://sist.cnrs.fr">
+         <img src="/images/logo_sist.png" width=150>
+         </a>
       </td>
-      <img src="/images/logo_sist.png">
-      <a href="https://sist.cnrs.fr"
+      <td>
+         <a href="https://ris.cnrs.fr">
+         <img src="images/RIS_QUADRI_WEB.jpg" width=150>
+         </a>
       </td>
    </tr>
    <tr>
       <td>
-      [![renatis](./images/renatis-logo.png)](http://renatis.cnrs.fr) 
+         <a href="http://renatis.cnrs.fr">
+         <img src="/images/renatis-logo.png" width=150>
+         </a>
       </td>
-      [![qer](/images/Logo_Reseau_QeR_petit.jpg)](http://qualite-en-recherche.cnrs.fr) 
-      </td>
-      [![rbdd](/images/index_13.jpg)](http://rbdd.cnrs.fr)
-      </td>
-   </tr>
-   <tr>
       <td>
-      [![ris](/images/RIS_QUADRI_WEB.jpg)](https://ris.cnrs.fr)
+         <a href="http://qualite-en-recherche.cnrs.fr">
+         <img src="images/Logo_Reseau_QeR_petit.jpg" width=100>
+         </a>
+      </td>
+      <td>
+         <a href="http://rbdd.cnrs.fr">
+         <img src="images/index_13.jpg" width=140>
+         </a>
       </td>
    </tr>
 </table>

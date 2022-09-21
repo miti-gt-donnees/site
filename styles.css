@@ -2,4 +2,5 @@
 
 .navbar-dark, .navbar-light, .navbar {
   background-image: url("./images/banner.png");
+  background-color: #ffffff;
 }
