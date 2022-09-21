@@ -3,6 +3,11 @@ title: "Datapaper"
 description: Une incitation à la qualification et à la réutilisation des jeux de données
 date: 2020-11-5
 lang: fr    
+format:
+  html:
+    toc: true
+    toc-location: right
+    toc-depth: 2
 ---
 
 

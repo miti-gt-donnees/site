@@ -2,6 +2,11 @@
 title: "Qualité des données"
 date: 2021-07-5
 lang: fr    
+format:
+  html:
+    toc: true
+    toc-location: right
+    toc-depth: 2
 ---
 
 La qualité des données est un thème transversal aux métiers de la
