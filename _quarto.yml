@@ -10,7 +10,8 @@ website:
     left: "&copy; Ce(tte) œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)."
  
   navbar:
-    href: https://gt-atelier-donnees.miti.cnrs.fr
+    logo: "images/petit-logo.png"
+    href: https://mi-gt-donnees.pages.math.unistra.fr/quarto
     right:
     - text: "Lettres"
       href: lettres.qmd
