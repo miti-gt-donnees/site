@@ -33,14 +33,14 @@ autour de la gestion des données » proposé en 2017. Le contenu de
 ce guide a été présenté le 3 février lors d\'un
 [webinaire](https://www.canal-u.tv/video/atelier_donnees/presentation_du_guide_de_bonnes_pratiques_des_donnees_de_la_recherche.59537).
 
-En juillet, le groupe de travail a réalisé un second webinaire sur le thème de la « [qualité des
+En juillet 2021 , le groupe de travail a réalisé un second webinaire sur le thème de la « [qualité des
 données](https://mi-gt-donnees.pages.math.unistra.fr/site/download/2021_07_05_Programme_Webinaire_Qualite.pdf)».
 
 Et en fin d\'année, une « [présentation de la démarche](https://jedata-normande.sciencesconf.org/data/pages/20211203_MC_Quidoz_journee_donnees_normande.pdf)
 » qui a donnée naissance au groupe de travail a été faite à la «
 journée d\'étude normande sur les données de recherche ».
 
-En mars 2022, le groupe de travail a rendu publique sa «
+- En mars 2022, le groupe de travail a rendu publique sa «
 [charte](/download/charte-gt-donnees_v2.pdf) ».
 
 Le 21 avril 2022 de 14H30 à 17H, le groupe de travail vous invite
