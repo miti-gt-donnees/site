@@ -12,8 +12,8 @@ website:
   navbar:
     href: https://gt-atelier-donnees.miti.cnrs.fr
     right:
-    - href: "Lettres"
-      text: lettres.qmd
+    - text: "Lettres"
+      href: lettres.qmd
     - text: "Evènements"
       href: evenements.qmd
     - text: "FAQ"

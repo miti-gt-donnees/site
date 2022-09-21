@@ -2,9 +2,10 @@
 title: "Wikidata"
 date: 2022-04-21
 lang: fr    
+format:
+   html:
+   toc: false
 ---
-
-
 
 Créée en octobre 2012, Wikidata est une immense base de connaissances
 libre éditée par la Wikimedia Foundation, hébergeur de Wikipedia. Éditée
