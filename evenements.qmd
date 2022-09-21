@@ -3,7 +3,7 @@ title: "Evènements"
 subtitle: Actions organisées par le groupe
 ---
 
-En 2017, le groupe a proposé un
+En 2017, le groupe a élaboré un
 [document](GTInterreseaux-CartoSyntheseV6-optimise.pdf)
 qui cartographie les usages dans chaque réseau autour de la gestion
 de la donnée.
