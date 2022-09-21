@@ -20,7 +20,7 @@ website:
       href: faq.qmd
     - text: "Documents"
       href: docs.qmd
-    - text: "Webinaires"
+    - text: "Thématiques"
       menu:
         - href: datapaper.qmd
           text: "Datapaper"

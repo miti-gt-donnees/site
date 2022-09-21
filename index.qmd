@@ -2,12 +2,7 @@
 title: 'Atelier “Données”'
 subtitle: Mission pour les Initiatives Transverses et Interdisciplinaires du CNRS
 description: un groupe de travail inter-réseaux pour des apports croisés des métiers sur la gestion des données de la recherche
-about:
-  template: solana
-  image: images/gt-donnees-logo.png
 ---
-
-## Identité
 
 Le [groupe de travail "Atelier Données"](https://miti.cnrs.fr/plateforme-reseaux/inter-reseaux/) , actuellement
 composé de représentants de plusieurs réseaux  s’attache à construire
@@ -19,7 +14,7 @@ se propose de cartographier les usages dans chaque réseau autour
 de la gestion de la donnée.
 
 
-## Missions 
+<h2>Missions </h2>
 
 - Construire et diffuser une vision transversale de la gestion des données afin d’enrichir la pratique de chaque réseau dans le domaine des données et permettre le développement de la complémentarité entre réseaux.
 - Valoriser l’apport des expériences et expertises « métier » dans une vision transversale de gestion de données dans les réseaux technologiques et scientifiques de la MI.
