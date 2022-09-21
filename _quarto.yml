@@ -22,6 +22,8 @@ website:
       href: docs.qmd
     - text: "Thématiques"
       menu:
+        - href: fair.qmd
+          text: "FAIR"
         - href: datapaper.qmd
           text: "Datapaper"
         - href: wikidata.qmd
