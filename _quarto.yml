@@ -20,6 +20,8 @@ website:
       href: docs.qmd
     - text: "Webinaires"
       menu:
+        - href: "Lettres"
+          text: lettres.qmd
         - href: datapaper.qmd
           text: "Datapaper"
         - href: wikidata.qmd
