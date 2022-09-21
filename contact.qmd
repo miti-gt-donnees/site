@@ -5,6 +5,7 @@ title: "Contact"
 La liste [gt-donnees-inter-reseaux](https://groupes.renater.fr/sympa/info/gt-donnees-inter-reseaux)
 
 <h1>Les partenaires</h1>
+
 [![ddor-cnrs](/images/cnrs-logo.jpg)](https://www.science-ouverte.cnrs.fr/ddor-cnrs-direction-des-donnees-ouvertes-de-la-recherche/)
 [![calcul](/images/logo_calcul.png)](https://calcul.math.cnrs.fr/) 
 [![devlog](https://devlog.prod.lamp.cnrs.fr/wp-content/uploads/2020/11/logo_devlog-1.png)](http://devlog.cnrs.fr/)
@@ -14,5 +15,4 @@ La liste [gt-donnees-inter-reseaux](https://groupes.renater.fr/sympa/info/gt-don
 [![renatis](./images/renatis-logo.png)](http://renatis.cnrs.fr//) 
 [![qer](/images/Logo_Reseau_QeR_petit.jpg)](http://qualite-en-recherche.cnrs.fr/) 
 [![rbdd](/images/index_13.jpg)](http://rbdd.cnrs.fr/)
-[![relier](/images/Logo_RELIER-petit.jpg)](http://www.relier-univ.fr/)
 [![ris](/images/RIS_QUADRI_WEB.jpg)](https://ris.cnrs.fr/)
