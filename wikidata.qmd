@@ -2,6 +2,11 @@
 title: "Wikidata"
 date: 2022-04-21
 lang: fr    
+format:
+  html:
+    toc: true
+    toc-location: right
+    toc-depth: 2
 ---
 
 Créée en octobre 2012, Wikidata est une immense base de connaissances
