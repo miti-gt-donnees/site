@@ -9,7 +9,7 @@ website:
     right: "Ce site a été créé avec [Quarto](https://quarto.org/)"
     left: "&copy; Ce(tte) œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)."
  
-  navbar:
+  sidebar:
     href: https://gt-atelier-donnees.miti.cnrs.fr
     right:
     - text: "Evènements"
