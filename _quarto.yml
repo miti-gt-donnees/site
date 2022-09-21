@@ -15,8 +15,6 @@ website:
     right:
     - text: "Lettres"
       href: lettres.qmd
-    - text: "Evènements"
-      href: evenements.qmd
     - text: "FAQ Données"
       href: faq.qmd
     - text: "Documents"
