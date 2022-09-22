@@ -18,6 +18,8 @@ A partir d’une réflexion de type « cycle de vie de la donnée », il se prop
 </td></tr>
 </table>
 
+[<img src="images/mailing.png" width=40>](https://listes.services.cnrs.fr/wws/info/donnees-inter-reseaux) **Liste de discussion**
+
 ## Missions
 
 - Construire et diffuser une vision transversale de la gestion des données afin d’enrichir la pratique de chaque réseau dans le domaine des données et permettre le développement de la complémentarité entre réseaux.

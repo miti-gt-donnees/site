@@ -8,14 +8,14 @@ website:
   page-footer: 
     right: "Ce site a été créé avec [Quarto](https://quarto.org/)"
     left: "&copy; Ce(tte) œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)."
- 
+
   navbar:
     logo: "images/petit-logo.png"
     href: https://mi-gt-donnees.pages.math.unistra.fr/quarto
     right:
     - text: "Lettres"
       href: lettres.qmd
-    - text: "FAQ Données"
+    - text: "FAQ"
       href: faq.qmd
     - text: "Documents"
       href: docs.qmd
@@ -29,10 +29,10 @@ website:
           text: "Wikidata"
         - href: qualite.qmd
           text: "Qualité des données"
-    - text: "Contact"
-      href: contact.qmd
+    - text: "Membres"
+      href: membres.qmd
     - icon: envelope-fill
-      href: https://listes.services.cnrs.fr/wws/info/donnees-inter-reseaux
+      href: mailto:gt-donnees-inter-reseaux@groupes.renater.fr
     - icon: twitter
       href: https://twitter.com/miti_gt_donnees
     - icon: github

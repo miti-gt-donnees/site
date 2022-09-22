@@ -9,6 +9,8 @@ format:
     toc-depth: 2
 ---
 
+## Description
+
 Créée en octobre 2012, Wikidata est une immense base de connaissances
 libre éditée par la Wikimedia Foundation, hébergeur de Wikipedia. Éditée
 de manière collaborative, elle décrit de manière factuelle une centaine

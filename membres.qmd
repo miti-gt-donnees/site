@@ -1,19 +1,22 @@
 ---
-title: "Contact"
+title: "Membres"
 ---
 
-La liste [gt-donnees-inter-reseaux](https://groupes.renater.fr/sympa/info/gt-donnees-inter-reseaux)
-
-
-**DDOR CNRS - Direction des Données ouvertes de la recherche**
-
-<a href="https://www.science-ouverte.cnrs.fr/ddor-cnrs-direction-des-donnees-ouvertes-de-la-recherche"> 
-<img src="images/cnrs-logo.jpg">
-</a>
-
-<h2>Les réseaux partenaires</h2>
-
 <table>
+<tr>
+<td>
+<a href="https://www.science-ouverte.cnrs.fr/ddor-cnrs-direction-des-donnees-ouvertes-de-la-recherche"> 
+<img src="images/cnrs-logo.jpg" width=60>
+</a>
+</td>
+<td>
+**DDOR CNRS**
+</td>
+<td>
+<font size=1>Direction des Données ouvertes de la recherche</font>
+</td>
+</tr>
+<tr><td>&nbsp;</td><td></td><td></td></tr>
    <tr>
       <td>
          <a href="https://calcul.math.cnrs.fr"> <img src="images/logo_calcul.png" width=120></a>
