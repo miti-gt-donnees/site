@@ -31,10 +31,12 @@ website:
           text: "Qualité des données"
     - text: "Contact"
       href: contact.qmd
-    - icon: github
-      href: https://github.com/miti-gt-donnees
+    - icon: envelope-fill
+      href: https://groupes.renater.fr/sympa/info/gt-donnees-inter-reseaux
     - icon: twitter
       href: https://twitter.com/miti_gt_donnees
+    - icon: github
+      href: https://github.com/miti-gt-donnees
 
 format:
   html:
