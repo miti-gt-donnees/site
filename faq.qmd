@@ -1,6 +1,6 @@
 ---
 title: "Foire Aux Questions"
-description: Cette FAQ est la synthèse des échanges qui se sont tenus lors de l'hackathon «[Comment améliorer le dépôt et le partage de données de recherche ?](https://gt-donnees2018.sciencesconf.org)». Elle est depuis enrichie régulièrement des discussions sur la liste données.
+description: Cette FAQ est la synthèse des échanges qui se sont tenus lors de l'hackathon «[Comment améliorer le dépôt et le partage de données de recherche ?](https://gt-donnees2018.sciencesconf.org)». Elle est depuis enrichie régulièrement des discussions sur [la liste données](https://listes.services.cnrs.fr/wws/info/donnees-inter-reseaux).
 format:
    html:
      theme: [sandstone, custom.scss]
