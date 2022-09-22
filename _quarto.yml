@@ -32,7 +32,7 @@ website:
     - text: "Contact"
       href: contact.qmd
     - icon: envelope-fill
-      href: https://groupes.renater.fr/sympa/info/gt-donnees-inter-reseaux
+      href: https://listes.services.cnrs.fr/wws/info/donnees-inter-reseaux
     - icon: twitter
       href: https://twitter.com/miti_gt_donnees
     - icon: github
