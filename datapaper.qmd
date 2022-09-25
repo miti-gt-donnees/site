@@ -12,6 +12,7 @@ format:
 
 
 
+## Description
 
 Dans le cadre d’une science ouverte et participative, le data paper permet de rendre plus visible tous les types de données et jeux de
 données de recherche dont on peut estimer que le potentiel de réutilisation est important. Il garantit la traçabilité et la qualité de ces données, et précise les modalités d’acquisition ainsi que les conditions et droits d’utilisation.
