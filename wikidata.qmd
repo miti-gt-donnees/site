@@ -55,15 +55,15 @@ Mais Wikidata est également
 
 ## Vidéos
 
-### Wikidata et la curation des identifiants pérennes des chercheurs (Pascal Martinolli - Université de Montréal)
+- Wikidata et la curation des identifiants pérennes des chercheurs (Pascal Martinolli - Université de Montréal)
 
-i<iframe width="560" height="315" src="https://www.canal-u.tv/embed/116469?t=0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.canal-u.tv/embed/116469?t=0" allowfullscreen></iframe>
 
-### Gérer, partager et interroger grâce à Wikibase des référentiels d\'autorité pour la recherche : l\'exemple de data.biblissima (Régis Robineau - Biblissima + Campus Condorcet)
+- Gérer, partager et interroger grâce à Wikibase des référentiels d\'autorité pour la recherche : l\'exemple de data.biblissima (Régis Robineau - Biblissima + Campus Condorcet)
 
 <iframe width="560" height="315" src="https://www.canal-u.tv/embed/116615?t=0" allowfullscreen></iframe>
 
-### Intégration de Wikibase dans OpenRefine et protocole de réconciliation ((Antonin Delpeuch - OpenRefine / InfAI))
+- Intégration de Wikibase dans OpenRefine et protocole de réconciliation ((Antonin Delpeuch - OpenRefine / InfAI))
 
 <iframe width="560" height="315" src="https://www.canal-u.tv/embed/116614?t=0" allowfullscreen></iframe>
 

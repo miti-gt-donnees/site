@@ -49,27 +49,27 @@ faut-il mettre en place pour arriver à obtenir des données de qualité ?
 
 ## Vidéos
 
-### Présentation du GT « Atelier Données » et du webinaire n°2
+- Présentation du GT « Atelier Données » et du webinaire n°2
 
 <iframe width="560" height="315" src="https://www.canal-u.tv/embed/112664?t=0" allowfullscreen></iframe>
 
-### Quel lien entre qualité et données ? (Alain Rivet, Cermav et Henri Valeins, RMSB)
+- Quel lien entre qualité et données ? (Alain Rivet, Cermav et Henri Valeins, RMSB)
 
 <iframe width="560" height="315" src="https://www.canal-u.tv/embed/112708?t=0" allowfullscreen></iframe>
 
-### Processus de contrôle et qualification des données dans un système d'observation océanographique (Christine Coatanoan, Ingénieur Gestion de données au Sismer, Ifremer Brest)
+- Processus de contrôle et qualification des données dans un système d'observation océanographique (Christine Coatanoan, Ingénieur Gestion de données au Sismer, Ifremer Brest)
 
 <iframe width="560" height="315" src="https://www.canal-u.tv/embed/112710?t=0" allowfullscreen></iframe>
 
-### Cycle de vie de la donnée ouverte de qualité (Geoffrey Aldebert, Etalab)
+- Cycle de vie de la donnée ouverte de qualité (Geoffrey Aldebert, Etalab)
 
 <iframe width="560" height="315" src="https://www.canal-u.tv/embed/112712?t=0" allowfullscreen></iframe>
 
-### Enjeux de la qualité des référentiels et des métadonnées pour la communauté scientifique : vocabulaires contrôlés, alignements pour une meilleure fairisation et réplicabilité d'un modèle de données - au travers de l'exemple des outils de Frantiq. (Blandine Nouvel, Centre Camille Jullianet Véronique Humbert, Archéologie des Sociétés Méditerranéennes)
+- Enjeux de la qualité des référentiels et des métadonnées pour la communauté scientifique : vocabulaires contrôlés, alignements pour une meilleure fairisation et réplicabilité d'un modèle de données - au travers de l'exemple des outils de Frantiq. (Blandine Nouvel, Centre Camille Jullianet Véronique Humbert, Archéologie des Sociétés Méditerranéennes)
 
 <iframe width="560" height="315" src="https://www.canal-u.tv/embed/112713?t=0" allowfullscreen></iframe>
 
-### Retour d'expérience en écologie végétale sur les étapes d'homogénéisation des données (Eric Garnier, chercheur CNRS au CEFE)
+- Retour d'expérience en écologie végétale sur les étapes d'homogénéisation des données (Eric Garnier, chercheur CNRS au CEFE)
 
 <iframe width="560" height="315" src="https://www.canal-u.tv/embed/112714?t=0" allowfullscreen></iframe>
 
