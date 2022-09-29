@@ -21,14 +21,14 @@ website:
       href: docs.qmd
     - text: "Thématiques"
       menu:
-        - href: fair.qmd
-          text: "FAIR"
         - href: datapaper.qmd
           text: "Datapaper"
-        - href: wikidata.qmd
-          text: "Wikidata"
+        - href: fair.qmd
+          text: "FAIR"
         - href: qualite.qmd
           text: "Qualité des données"
+        - href: wikidata.qmd
+          text: "Wikidata"
     - text: Liste de discussion
       href: https://listes.services.cnrs.fr/wws/info/donnees-inter-reseaux
     - icon: envelope-fill
