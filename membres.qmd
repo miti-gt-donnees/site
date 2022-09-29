@@ -5,15 +5,19 @@ title: "Membres"
 <table>
 <tr>
 <td>
-<a href="https://www.science-ouverte.cnrs.fr/ddor-cnrs-direction-des-donnees-ouvertes-de-la-recherche"> 
-<img src="images/cnrs-logo.jpg" width=60>
+<table>
+<tr align="center"><td>
+<a href="https://www.science-ouverte.cnrs.fr/ddor-cnrs-direction-des-donnees-ouvertes-de-la-recherche"> <img src="images/cnrs-logo.jpg" width=60>
 </a>
+</td></tr>
+<tr align="center"><td>
+<font size=2>Direction des Données ouvertes de la recherche</font>
+</center>
+</td></tr>
 </td>
 <td>
-**DDOR CNRS**
 </td>
 <td>
-<font size=1>Direction des Données ouvertes de la recherche</font>
 </td>
 </tr>
 <tr><td>&nbsp;</td><td></td><td></td></tr>
