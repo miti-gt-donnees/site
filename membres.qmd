@@ -11,7 +11,7 @@ title: "Membres"
 </a>
 </td></tr>
 <tr align="center"><td>
-<font size=2>Direction des Données ouvertes de la recherche</font>
+<font size=2>Direction des Données Ouvertes de la Recherche</font>
 </center>
 </td></tr>
 </td>
