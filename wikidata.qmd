@@ -39,7 +39,7 @@ Mais Wikidata est également
 - Un ensemble de scripts informatiques, effectuant des tâches
   automatiques ou semi-automatiques répétitives.
 
-## Les documents
+## Documents
 
 -   Programme ([pdf](https://gt-atelier-donnees.miti.cnrs.fr/download/2022_04_21_webinaire_Wikidata-Programme.pdf))
 -   Le Mooc Wikidata (Amélie Charles - Chargée de mission MOOC, Wikimedia France)
@@ -53,7 +53,7 @@ Mais Wikidata est également
     ([pdf](https://gt-atelier-donnees.miti.cnrs.fr/download/2022_04_21_webinaire_Wikidata-Robineau_Biblissima.pdf))
 
 
-## Les vidéos
+## Vidéos
 
 ### Wikidata et la curation des identifiants pérennes des chercheurs (Pascal Martinolli - Université de Montréal)
 
