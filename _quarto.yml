@@ -13,6 +13,8 @@ website:
     logo: images/petit-logo-simple-blanc.png
     href: https://mi-gt-donnees.pages.math.unistra.fr/quarto
     right:
+    - text: "Membres"
+      href: membres.qmd
     - text: "Lettres"
       href: lettres.qmd
     - text: "FAQ"
