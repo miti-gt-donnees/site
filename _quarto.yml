@@ -15,8 +15,6 @@ website:
     right:
     - text: "Membres"
       href: membres.qmd
-    - text: "Lettres"
-      href: lettres.qmd
     - text: "FAQ"
       href: faq.qmd
     - text: "Documents"
