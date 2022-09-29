@@ -5,6 +5,7 @@ website:
   title: "Atelier Données"
   site-url: https://mi-gt-donnees.pages.math.unistra.fr/quarto
   favicon: images/favicon.png
+  page-navigation: true
   page-footer: 
     right: "Ce site a été créé avec [Quarto](https://quarto.org/)"
     left: "&copy; Ce(tte) œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)."

@@ -2,74 +2,16 @@
 title: "Membres"
 ---
 
-<table>
-<tr>
-<td>
-<table>
-<tr align="center"><td>
-<a href="https://www.science-ouverte.cnrs.fr/ddor-cnrs-direction-des-donnees-ouvertes-de-la-recherche"> <img src="images/cnrs-logo.jpg" width=60>
-</a>
-</td></tr>
-<tr align="center"><td>
-<font size=2>Direction des Données Ouvertes de la Recherche</font>
-</center>
-</td></tr>
-</table>
-</td>
-<td>
-</td>
-<td>
+<table><tr align="center"><td>
 <a href="https://ecoinfo.cnrs.fr"> <img src="images/logo_ecoinfo.png" width=150></a>
-</td>
-</tr>
-<tr><td>&nbsp;</td><td></td><td></td></tr>
-   <tr>
-      <td>
-         <a href="https://calcul.math.cnrs.fr"> <img src="images/logo_calcul.png" width=120></a>
-      </td>
-      <td>
-         <a href="http://devlog.cnrs.fr">
-         <img src="images/logo_devlog.png" width=160>
-         </a>
-      </td>
-      <td>
-         <a href="http://medici.in2p3.fr">
-         <img src="images/logo_medici.png" width=150>
-         </a>
-      </td>
-   </tr>
-   <tr>
-      <td>
-         <a href="http://resinfo.org"> 
-         <img src="images/logo_resinfo.png" width=140>
-         </a>
-      </td>
-      <td>
-         <a href="https://sist.cnrs.fr">
-         <img src="/images/logo_sist.png" width=150>
-         </a>
-      </td>
-      <td>
-         <a href="https://ris.cnrs.fr">
-         <img src="images/RIS_QUADRI_WEB.jpg" width=150>
-         </a>
-      </td>
-   </tr>
-   <tr>
-      <td>
-         <a href="http://renatis.cnrs.fr">
-         <img src="/images/renatis-logo.png" width=150>
-         </a>
-      </td>
-      <td>
-         <a href="http://qualite-en-recherche.cnrs.fr">
-         <img src="images/Logo_Reseau_QeR_petit.jpg" width=100>
-         </a>
-      </td>
-      <td>
-         <a href="http://rbdd.cnrs.fr">
-         <img src="images/index_13.jpg" width=140>
-         </a>
-      </td>
-   </tr>
-</table>
+<a href="https://calcul.math.cnrs.fr"> <img src="images/logo_calcul.png" width=150></a>
+<a href="http://devlog.cnrs.fr"> <img src="images/logo_devlog.png" width=150> </a>
+<a href="https://sist.cnrs.fr"> <img src="/images/logo_sist.png" width=150> </a>
+<a href="http://medici.in2p3.fr"> <img src="images/logo_medici.png" width=150> </a>
+<a href="https://ris.cnrs.fr"> <img src="images/logo_ris.png" width=150> </a>
+<a href="http://renatis.cnrs.fr"> <img src="/images/logo_renatis.png" width=150> </a>
+<a href="http://qualite-en-recherche.cnrs.fr"> <img src="images/logo_qer.png" width=150> </a>
+<a href="http://rbdd.cnrs.fr"> <img src="images/logo_rbdd.png" width=150> </a> 
+<a href="http://resinfo.org"> <img src="images/logo_resinfo.png" width=150> </a>
+<a href="https://www.science-ouverte.cnrs.fr/ddor-cnrs-direction-des-donnees-ouvertes-de-la-recherche"> <img src="images/logo_ddor.png" width=150> </a>
+</td></tr></table>
