@@ -14,10 +14,12 @@ title: "Membres"
 <font size=2>Direction des Données Ouvertes de la Recherche</font>
 </center>
 </td></tr>
+</table>
 </td>
 <td>
 </td>
 <td>
+<a href="https://ecoinfo.cnrs.fr"> <img src="images/logo_ecoinfo.png" width=150></a>
 </td>
 </tr>
 <tr><td>&nbsp;</td><td></td><td></td></tr>
