@@ -20,6 +20,8 @@ website:
       href: faq.qmd
     - text: "Documents"
       href: docs.qmd
+    - text: "Guide"
+      href: https://mi-gt-donnees.pages.math.unistra.fr/guide
     - text: "Thématiques"
       menu:
         - href: datapaper.qmd
