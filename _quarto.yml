@@ -14,13 +14,7 @@ website:
     logo: images/petit-logo-simple-blanc.png
     href: https://mi-gt-donnees.pages.math.unistra.fr/quarto
     right:
-    - text: "Membres"
-      href: membres.qmd
-    - text: "FAQ"
-      href: faq.qmd
-    - text: "Documents"
-      href: docs.qmd
-    - text: "Guide"
+    - text: "Guide de bonnes pratiques"
       href: https://mi-gt-donnees.pages.math.unistra.fr/guide
     - text: "Thématiques"
       menu:
@@ -32,8 +26,14 @@ website:
           text: "Qualité des données"
         - href: wikidata.qmd
           text: "Wikidata"
+    - text: "Documents"
+      href: docs.qmd
+    - text: "FAQ"
+      href: faq.qmd
     - text: Liste de discussion
       href: https://listes.services.cnrs.fr/wws/info/donnees-inter-reseaux
+    - text: "Membres"
+      href: membres.qmd
     - icon: envelope-fill
       href: mailto:gt-donnees-inter-reseaux@groupes.renater.fr
       aria-label: "Contact"
