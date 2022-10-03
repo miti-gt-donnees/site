@@ -1,5 +1,5 @@
 ---
-title: "Les Documents"
+title: "Documents"
 tags: [documents]
 format:
   html:
