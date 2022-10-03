@@ -27,7 +27,7 @@ website:
         - href: datapaper.qmd
           text: "Datapaper"
         - href: fair.qmd
-          text: "FAIR"
+          text: "FAIRisation des données"
         - href: qualite.qmd
           text: "Qualité des données"
         - href: wikidata.qmd
