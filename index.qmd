@@ -9,11 +9,12 @@ format:
 
 <table>
 <tr><td>
-Le groupe de travail "Atelier Données" , actuellement composé de représentants de plusieurs [réseaux](https://mi-gt-donnees.pages.math.unistra.fr/quarto/membres.html)  s’attache à situer l'action de chaque réseua dans la gestion des données de la recherche : de l'expérience à la valorisation
+Le groupe de travail "Atelier Données" a pris naissance  lors des journées , actuellement composé de représentants de plusieurs [réseaux](https://mi-gt-donnees.pages.math.unistra.fr/quarto/membres.html)  s’attache à situer l'action de chaque réseau dans la gestion des données de la recherche : de l'expérience à la valorisation
 </td>
 <td>
 <img src="./images/gt-donnees-logo.png" width=400>
-</td></tr>
+</td>
+</tr>
 </table>
 
 
@@ -23,7 +24,6 @@ Le groupe de travail "Atelier Données" , actuellement composé de représentant
 - Diffuser et valoriser les pratiques de chaque réseau dans les domaines des données
 - Sensibiliser les communautés porofessionelles à la gestion des données
 
-Pour en savoir plus, cliquer sur 
 
 ## Evènements
 
@@ -43,7 +43,7 @@ Pour en savoir plus, cliquer sur
 
 - En août 2022, le GDS [EcoInfo](https://ecoinfo.cnrs.fr/le-gds-ecoinfo/) a rejoint le groupe de travail et le réseau [Relier](http://www.relier-univ.fr/), le REseau quaLIté en Enseignement superieur et Recherche a quitté le groupe.
 
-- En septembre 2022, à l'occasion des journées R2T2, le groupe de travail a présenté le nouveau logo, le nouveau poster et le motion design. Une intervention a été faite durant la session groupe inter-reseaux pour présenter la génèse du [GT Atelier Donnnées]
+- En septembre 2022, à l'occasion des journées R2T2, le groupe de travail a présenté le nouveau logo, le nouveau poster et le motion design. Une intervention a été faite durant la session "le travail inter-reseaux" pour présenter la génèse et les travaux du [GT Atelier Donnnées]
 
 ## Lettres d\'information
 
