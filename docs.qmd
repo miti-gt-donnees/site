@@ -10,12 +10,12 @@ format:
 - Le [choix d'un entrepôt](/download/Choix_entrepot_hackathon_20200114.pdf) par Françoise Tisserand, Ourida Aberkane et Mohamed Yahi (2020)
 - Le [poster](/download/R2T2-septembre-2019.pdf) pour les R2T2 : Rencontres des Réseaux Transverses et inTerdisciplinaires, 2019, CNRS Campus Gérard Mégie
 - La [cartographie](/download/GTInterreseaux-CartoSyntheseV6-optimise.pdf) des usages dans chaque réseau autour de la gestion de la donnée (2017)
-- Le [livret](/download/Livret_FAIR_2018.pdf) de la journée « Interopérabilité et pérennisation des données de la recherche : comment FAIR En pratique ? Retours d'expériences » (2020)
+- Le [livret de synthèse](/download/Livret_FAIR_2018.pdf) de la journée « Interopérabilité et pérennisation des données de la recherche : comment FAIR En pratique ? Retours d'expériences » (2018)
 - [Présentation du GT Atelier Données](/download/Atelier_Donnees_17052021.pdf) lors de la réunion des coordinateurs des réseaux MITI (2021)
 - [Présentation du GT Atelier Données](/download/Atelier_Donnees_20220420.pdf) lors de la réunion des coordinateurs des réseaux MITI (2022)
-- [Le guide de bonnes pratiques sur la gestion des données de la recherche](https://mi-gt-donnees.pages.math.unistra.fr/guide/) (2021)
+- [Le guide de bonnes pratiques sur la gestion des données de la recherche](https://mi-gt-donnees.pages.math.unistra.fr/guide/guide_bonnes_pratiques_gestion_donnees_recherche_v1.pdf) (2021)
 - Le webinaire de présentation du guide (Janvier 2021) ([video](https://www.canal-u.tv/video/atelier_donnees/presentation_du_guide_de_bonnes_pratiques_des_donnees_de_la_recherche.59537), [pdf](/download/Guide_Bonnes_Pratiques_Janvier_2021.pdf)) (2021)
-- [Présenttaion du GT Atelier Données](/download/Atelier_Donnees_17052021.pdf) pour les R2T2 : Rencontres des Réseaux Transverses et inTerdisciplinaires, 2022, CNRS Campus Gérard Mégie
+- [Présentation du GT Atelier Données](/download/2022_09_29_GT_Atelier_Donnees_VF.pdf) pour les R2T2 : Rencontres des Réseaux Transverses et inTerdisciplinaires, 2022, CNRS Campus Gérard Mégie
 
 
 
