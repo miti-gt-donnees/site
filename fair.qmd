@@ -14,7 +14,9 @@ format:
 
 ## Description
 
-Les objectifs de cette journée sont disponibles sur [la chaîne du réseau "bases de données"](https://webcast.in2p3.fr/container/interoperabilite-et-perennisation-des-donnees-de-la-recherche). 
+Avec le mouvement de l’ouverture des données de la recherche et du partage dit “Science Ouverte”, au niveau européen et international, de nombreux pays se sont engagés dans des politiques permettant le partage des résultats scientifiques et des données. La Science Ouverte est une nouvelle approche de la démarche scientifique, basée sur la production collaborative des produits de science, de leur partage, de leur libre circulation et réutilisation. La Commission européenne a émis dès 2012 des recommandations concernant la diffusion des résultats scientifiques. Elles invitent les chercheurs à s’appuyer sur les principes FAIR (Findable, Accessible, Interoperable, Reusable) permettant de favoriser la découverte, l’accès, l’interopérabilité et la réutilisation des données. Ils permettent de guider les stratégies de gestion des données et d’aider tous les acteurs qui œuvrent à les produire, à en contrôler la qualité, à les traiter et les analyser, à assurer leur publication et leur dissémination, à les sélectionner et les préparer pour le dépôt dans des plateformes de partage ou d’archivage.
+
+Pour lire la [suite](https://webcast.in2p3.fr/container/interoperabilite-et-perennisation-des-donnees-de-la-recherche). 
 
 ## Documents
 
