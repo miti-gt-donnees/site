@@ -13,14 +13,15 @@ format:
 ## Quels sont les points de vigilance pour préparer le partage de données ? {#vigilance}
 
 Pour bien préparer le partage des données, il est recommandé : 
- * de penser **cycle de vie de la donnée** avant même qu'elle soit générée, c'est à dire dès l'origine du projet. Ceci permet notamment d'expliciter très clairement l'ouverture des données à l'ensemble des partenaires du projet
- * de décrire très spécifiquement les données collectées ou générées en le faisant autant que possible via un portail spécialisé, disciplinaire ou institutionnel, HAL, etc.
- * de décrire le plus finement possible la méthodologie et les outils nécessaires pour leur réutilisation (si possible fournir, avec les données, les programmes permettant l'utilisation (a minima la lecture) des données)
- * de veiller à ce que les formats et standards utilisés soient ouverts et communément utilisés par la communauté 
- * d'utiliser une convention de nommage pour désigner correctement ses fichiers
- * de veiller au respect des lois et en particulier la RGPD et éventuellement prévoir d'anonymiser les données
- * de préciser les modalités d’accès et de réutilisation des données en choisissant une licence explicite, en indiquant les périodes d’embargo
- * de fournir avec les données une référence bibliographique associée aux données (un article de journal). Ainsi l'usage des données devrait impliquer la citation du doi (ou identifiant unique autre) des données elle même, plus un doi (ou identifiant unique autre) associé à la publication de référence.
+
+* de penser **cycle de vie de la donnée** avant même qu'elle soit générée, c'est à dire dès l'origine du projet. Ceci permet notamment d'expliciter très clairement l'ouverture des données à l'ensemble des partenaires du projet
+* de décrire très spécifiquement les données collectées ou générées en le faisant autant que possible via un portail spécialisé, disciplinaire ou institutionnel, HAL, etc.
+* de décrire le plus finement possible la méthodologie et les outils nécessaires pour leur réutilisation (si possible fournir, avec les données, les programmes permettant l'utilisation (a minima la lecture) des données)
+* de veiller à ce que les formats et standards utilisés soient ouverts et communément utilisés par la communauté 
+* d'utiliser une convention de nommage pour désigner correctement ses fichiers
+* de veiller au respect des lois et en particulier la RGPD et éventuellement prévoir d'anonymiser les données
+* de préciser les modalités d’accès et de réutilisation des données en choisissant une licence explicite, en indiquant les périodes d’embargo
+* de fournir avec les données une référence bibliographique associée aux données (un article de journal). Ainsi l'usage des données devrait impliquer la citation du doi (ou identifiant unique autre) des données elle même, plus un doi (ou identifiant unique autre) associé à la publication de référence.
  
 Pour vous aider dans cette tâche il est fortement conseillé de recourir à la rédaction d’un **plan de gestion des données (PGD)**.
 
