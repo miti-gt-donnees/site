@@ -52,6 +52,7 @@ Le groupe de travail "Atelier Données" a pris naissance suite aux rencontres de
 
 ### 2022
 
+- [Septembre 2022](/lettres/27-Septembre_2022.md)
 - [Aout 2022](/lettres/26-Aout_2022.md)
 - [Juillet 2022](/lettres/25-Juillet_2022.md)
 - [Juin 2022](/lettres/24-Juin_2022.md)
