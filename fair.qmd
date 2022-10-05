@@ -2,18 +2,23 @@
 title: "Journée d'étude FAIR"
 subtitle: Interopérabilité et pérennisation des données de la recherche
 description: Comment FAIR en pratique ? Retours d’expériences 
-url: https://gt-donnees2018.sciencesconf.org
 date: 2018-11-27
 tags: [fair]
+lang: fr
+format:
+  html:
+    toc: true
+    toc-location: right
+    toc-depth: 2
 ---
 
 ## Description
 
-Toutes les informations sur cette journée sont disponibles sur [la chaîne du réseau "bases de données"](https://webcast.in2p3.fr/container/interoperabilite-et-perennisation-des-donnees-de-la-recherche). 
+Les objectifs de cette journée sont disponibles sur [la chaîne du réseau "bases de données"](https://webcast.in2p3.fr/container/interoperabilite-et-perennisation-des-donnees-de-la-recherche). 
 
 ## Documents
 
-Les supports sont disponibles sur [le site de l'évènement](https://gt-donnees2018.sciencesconf.org).
+Les supports sont consultables sur [le site de l'évènement](https://gt-donnees2018.sciencesconf.org).
 
 ## Vidéos
 
