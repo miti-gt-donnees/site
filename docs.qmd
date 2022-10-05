@@ -12,7 +12,7 @@ format:
 - Le [poster](/download/R2T2-septembre-2019.pdf) pour les R2T2 : Rencontres des Réseaux Transverses et inTerdisciplinaires, 2019, CNRS
 - Le [poster](/download/R2T2-septembre-2022.pdf) pour les R2T2 : Rencontres des Réseaux Transverses et inTerdisciplinaires, 2022, CNRS
 - le [motion design](https://www.canal-u.tv/chaines/ad/presentation-du-gt-atelier-donnees-cnrs) pour les R2T2 : Rencontres des Réseaux Transverses et inTerdisciplinaires, 2022, CNRS
-- Le [travail inter-réseaux - GT Atelier Données](/download/2022_09_29_GT_Atelier_Donnees_VF.pdf) pour les R2T2 : Rencontres des Réseaux Transverses et inTerdisciplinaires, 2022, CNRS
+- Le [travail inter-réseaux - GT Atelier Données](/download/2022_09_29_GT_Atelier-Donnees_VF.pdf) pour les R2T2 : Rencontres des Réseaux Transverses et inTerdisciplinaires, 2022, CNRS
 - La [cartographie](/download/GTInterreseaux-CartoSyntheseV6-optimise.pdf) des usages dans chaque réseau autour de la gestion de la donnée (2017)
 - Le [livret de synthèse](/download/Livret_FAIR_2018.pdf) de la journée « Interopérabilité et pérennisation des données de la recherche : comment FAIR En pratique ? Retours d'expériences » (2018)
 - Le [choix d'un entrepôt](/download/Choix_entrepot_hackathon_20200114.pdf) par Françoise Tisserand, Ourida Aberkane et Mohamed Yahi (2020)
