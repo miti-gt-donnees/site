@@ -7,7 +7,15 @@ date: 2018-11-27
 tags: [fair]
 ---
 
-Plus d'informations sur cette journée sur [la chaîne du réseau "bases de données"](https://webcast.in2p3.fr/container/interoperabilite-et-perennisation-des-donnees-de-la-recherche). Les supports sont disponibles sur [le site de l'évènement](https://gt-donnees2018.sciencesconf.org).
+## Description
+
+Toutes les informations sur cette journée sont disponibles sur [la chaîne du réseau "bases de données"](https://webcast.in2p3.fr/container/interoperabilite-et-perennisation-des-donnees-de-la-recherche). 
+
+## Documents
+
+Les supports sont disponibles sur [le site de l'évènement](https://gt-donnees2018.sciencesconf.org).
+
+## Vidéos
 
 - Introduction de la journée interopérabilité et pérennisation des données de la Recherche
 
