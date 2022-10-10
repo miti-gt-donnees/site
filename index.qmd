@@ -32,7 +32,7 @@ Le groupe de travail "Atelier Données" a pris naissance suite aux rencontres de
 
 - En 2017, le groupe a élaboré un [document](/download/GTInterreseaux-CartoSyntheseV6-optimise.pdf) qui cartographie les usages dans chaque réseau autour de la gestion de la donnée.
 
-- En 2018, le groupe a organisé une journée thématique inter-réseaux « Interopérabilité et pérennisation des données de la recherche : Comment FAIR en pratique ? » : [pdf](https://gt-donnees2018.sciencesconf.org/), [visio](https://webcast.in2p3.fr/container/interoperabilite-et-perennisation-des-donnees-de-la-recherche).
+- En 2018, le groupe a organisé une journée thématique inter-réseaux « Interopérabilité et pérennisation des données de la recherche : Comment FAIR en pratique ? » : [pdf](https://gt-donnees2018.sciencesconf.org/resource/page/id/3.html), [visio](https://webcast.in2p3.fr/container/interoperabilite-et-perennisation-des-donnees-de-la-recherche).
 
 - En 2019, le groupe a participé aux journées R2T2 « Atelier données : un gt inter-réseaux pour des apports croisés des métiers sur la gestion des données de la recherche » : [pdf](/download/R2T2_atelier_donn%C3%A9es_Rivet.pdf), [visio](https://webcast.in2p3.fr/video/un-gt-inter-reseaux-pour-des-apports-croises-des-metiers-sur-la-gestion-des-donnees-de-la-recherche) et a ouvert la liste de discussion [donnees-inter-reseaux](/download/Raison_etre_liste_donnees-inter-reseaux.pdf).
 
