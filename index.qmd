@@ -42,7 +42,7 @@ Le groupe de travail "Atelier Données" a pris naissance suite aux rencontres de
 
 - En 2022, le groupe de travail a rendu publique sa « [charte](/download/charte-gt-donnees_v2.pdf) ». Le GDS [EcoInfo](https://ecoinfo.cnrs.fr/le-gds-ecoinfo/) a rejoint le groupe de travail et le réseau [Relier](http://www.relier-univ.fr/), le REseau quaLIté en Enseignement superieur et Recherche l'a quitté.
 
-- En 2022, le groupe de travail a organisé un webinaire sur le thème du wikidata ([pgm](/download/2022_04_21_webinaire_Wikidata-Programme.pdf), [pdf / visio](wikidata.qmd)). Et à l'occasion des journées R2T2, le groupe de travail a présenté le nouveau logo, le nouveau poster et le motion design et une intervention a été faite durant la session "le travail inter-reseaux" pour présenter la génèse et les travaux du GT Atelier Donnnées ([pdf](download/2022_09_29_GT_Atelier-Donnees_VF.pdf), visio).
+- En 2022, le groupe de travail a organisé un webinaire intitulé « wikidata » ([pgm](/download/2022_04_21_webinaire_Wikidata-Programme.pdf), [pdf / visio](wikidata.qmd)). Et à l'occasion des journées R2T2, le groupe de travail a présenté le nouveau logo, le nouveau poster et le motion design et une intervention a été faite durant la session "le travail inter-reseaux" pour présenter la génèse et les travaux du GT Atelier Donnnées ([pdf](download/2022_09_29_GT_Atelier-Donnees_VF.pdf), visio).
 
 ## Lettres d\'information
 
