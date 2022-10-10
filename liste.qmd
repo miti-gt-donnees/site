@@ -1,0 +1,14 @@
+
+---
+title: "Journée d'étude FAIR"
+subtitle: Interopérabilité et pérennisation des données de la recherche
+description: Comment FAIR en pratique ? Retours d’expériences 
+date: 2018-11-27
+tags: [fair]
+lang: fr
+format:
+  html:
+    toc: true
+    toc-location: right
+    toc-depth: 2
+---
