@@ -3,7 +3,14 @@ title: "Guide de bonnes pratiques"
 date: 2020-01-01
 tags: [guide]
 lang: fr
+format:
+  html:
+    toc: true
+    toc-location: right
+    toc-depth: 2
 ---
+
+Version 2021 [pdf](https://mi-gt-donnees.pages.math.unistra.fr/guide/guide_bonnes_pratiques_gestion_donnees_recherche_v1.pdf) [html](https://mi-gt-donnees.pages.math.unistra.fr/guide/)
 
 Ce guide est la production du groupe de travail inter-réseaux
 “Atelier Données”. Il fait suite à un premier travail très synthétique
@@ -30,3 +37,4 @@ communications qui sont présentées. Il constitue aussi une invitation
 Ce guide a fait l'objet d'un [webinaire](https://mi-gt-donnees.pages.math.unistra.fr/quarto/download/Guide_Bonnes_Pratiques_Janvier_2021.pdf) en 2021
 
 <iframe width="560" height="315" src="https://www.canal-u.tv/embed/112612?t=0" allowfullscreen></iframe>
+
