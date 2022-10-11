@@ -7,19 +7,18 @@ format:
     toc-location: right
 ---
 
+
 <table>
-<tr><td>
+<tr><td width="50%">
 Le groupe de travail "Atelier Données" a pris naissance suite aux rencontres des réseaux professionnels du CNRS (2016). Il est actuellement composé de représentants de 12 [structures](membres.qmd). Il s’attache à situer l'action de chaque réseau dans la gestion des données de la recherche : de l'expérience à la valorisation
-
-<iframe width="560" height="315" src="https://www.canal-u.tv/embed/133380?t=0" allowfullscreen></iframe>
-
 </td>
-<td>
-<img src="./images/gt-donnees-logo.png" width=400>
+<td width="50%">
+<img src="./images/gt-donnees-logo.png" width=300>
 </td>
 </tr>
 </table>
 
+<iframe align="center" width="560" height="315" src="https://www.canal-u.tv/embed/133380?t=0" allowfullscreen></iframe>
 
 ## Missions
 

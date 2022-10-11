@@ -1,0 +1,32 @@
+---
+title: "Guide de bonnes pratiques"
+date: 2020-01-01
+tags: [guide]
+lang: fr
+---
+
+Ce guide est la production du groupe de travail inter-réseaux
+“Atelier Données”. Il fait suite à un premier travail très synthétique
+réalisé en 2017 qui visait à établir une [cartographie](https://mi-gt-donnees.pages.math.unistra.fr/quarto/download/GTInterreseaux-CartoSyntheseV6-optimise.pdf) de l’action des réseaux en matière de gestion des données de la recherche.
+
+Dans ce document, nous avons voulu témoigner des travaux réalisés
+au sein de nos réseaux métiers qui rendent compte de la gestion des
+données de la recherche tout en guidant le lecteur vers des bonnes
+pratiques en l’invitant aussi à cliquer sur des liens qui constituent
+des ressources lui permettant d’approfondir le sujet.
+
+Ce guide est donc un document un peu hybride proche du vadémécum,
+composé d’un inventaire d’actions de formations (conférences,
+séminaires, présentations), d’un répertoire de liens, de recommandations
+professionnelles, complétées de définitions utiles, pour approfondir
+le sujet de la gestion des données dans les réseaux métiers.
+
+Il s’adresse à toute personne désireuse de se former à la gestion
+des données de la recherche, et son objectif et d’aider le lecteur
+à analyser son besoin et trouver des solutions parmi l’eventail des
+communications qui sont présentées. Il constitue aussi une invitation
+à se rapprocher des réseaux métiers.
+
+Ce guide a fait l'objet d'un [webinaire](https://mi-gt-donnees.pages.math.unistra.fr/quarto/download/Guide_Bonnes_Pratiques_Janvier_2021.pdf) en 2021
+
+<iframe width="560" height="315" src="https://www.canal-u.tv/embed/112612?t=0" allowfullscreen></iframe>

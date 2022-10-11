@@ -1,14 +1,27 @@
-
 ---
-title: "Journée d'étude FAIR"
-subtitle: Interopérabilité et pérennisation des données de la recherche
-description: Comment FAIR en pratique ? Retours d’expériences 
+title: "Liste de discussion"
 date: 2018-11-27
-tags: [fair]
+tags: [liste]
 lang: fr
-format:
-  html:
-    toc: true
-    toc-location: right
-    toc-depth: 2
 ---
+
+Pour faciliter les échanges autour des données de la recherche entre
+nos différents réseaux, nous proposons une nouvelle liste de
+discussion. Cette liste aura pour objectif de traiter les sujets
+portant spécifiquement sur la thématique de gestion et du partage
+des données à l'interface des différents métiers et réseaux.
+
+Si les données vous intéressent, inscrivez-vous et participez aux
+échanges ! N'hésitez pas à vous inscrire aussi aux listes des réseaux
+directement liés à vos activités.
+
+Pour s’inscrire deux méthodes :
+
+- envoyer un message à [sympa@services.cnrs.fr](mailto:sympa@services.cnrs.fr) avec comme objet 
+```
+subscribe donnees-inter-reseaux Prénom Nom
+```
+- se connecter à <https://listes.services.cnrs.fr/wws/info/donnees-inter-reseaux>
+
+Attention seules les demandes faites avec une adresse professionnelle seront acceptées.
+

@@ -15,7 +15,7 @@ website:
     href: https://mi-gt-donnees.pages.math.unistra.fr/quarto
     right:
     - text: "Guide de bonnes pratiques"
-      href: https://mi-gt-donnees.pages.math.unistra.fr/guide
+      href: guide.qmd
     - text: "Thématiques"
       menu:
         - href: datapaper.qmd
@@ -31,7 +31,7 @@ website:
     - text: "FAQ"
       href: faq.qmd
     - text: Liste de discussion
-      href: https://listes.services.cnrs.fr/wws/info/donnees-inter-reseaux
+      href: liste.qmd
     - text: "Membres"
       href: membres.qmd
     - icon: envelope-fill
