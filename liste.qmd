@@ -17,7 +17,7 @@ directement liés à vos activités.
 
 Pour s’inscrire deux méthodes :
 
-- envoyer un message à [sympa@services.cnrs.fr](mailto:sympa@services.cnrs.fr) avec comme objet 
+- envoyer un message à [sympa@services.cnrs.fr](mailto:sympa@services.cnrs.fr?subject=subscribe donnees-inter-reseaux) avec comme objet 
 ```
 subscribe donnees-inter-reseaux Prénom Nom
 ```
