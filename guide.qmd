@@ -10,8 +10,8 @@ format:
     toc-depth: 2
 ---
 
-<table><tr align="center"><td>
 Version 2021 
+<table><tr align="center"><td>
 <a href="https://mi-gt-donnees.pages.math.unistra.fr/guide/"> <img src="images/html.png" width=80></a>
 <a href="https://mi-gt-donnees.pages.math.unistra.fr/guide/guide_bonnes_pratiques_gestion_donnees_recherche_v1.pdf"> <img src="images/pdf.png" width=150></a>
 </td></tr></table>
