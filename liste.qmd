@@ -25,5 +25,5 @@ subscribe donnees-inter-reseaux Prénom Nom
 
 Attention seules les demandes faites avec une adresse professionnelle seront acceptées.
 
-Pour accéder aux archives (réservé aux abonnés de la liste), cliquer [ici](https://listes.services.cnrs.fr/wws/arc/donnees-inter-reseaux/)
+Pour accéder aux archives (réservé aux abonnés de la liste), cliquez [ici](https://listes.services.cnrs.fr/wws/arc/donnees-inter-reseaux/)
 
