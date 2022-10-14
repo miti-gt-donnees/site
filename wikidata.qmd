@@ -41,16 +41,16 @@ Mais Wikidata est également
 
 ## Documents
 
--   Programme ([pdf](https://gt-atelier-donnees.miti.cnrs.fr/download/2022_04_21_webinaire_Wikidata-Programme.pdf))
+-   Programme ([pdf](/download/2022_04_21_webinaire_Wikidata-Programme.pdf))
 -   Le Mooc Wikidata (Amélie Charles - Chargée de mission MOOC, Wikimedia France)
-    ([pdf](https://gt-atelier-donnees.miti.cnrs.fr/download/2022_04_21_webinaire_Wikidata-Charles-MOOC.pdf))
+    ([pdf](/download/2022_04_21_webinaire_Wikidata-Charles-MOOC.pdf))
 -   Wikidata et la curation des identifiants pérennes des chercheurs
     (Pascal Martinolli - Université de Montréal)
-    ([pdf](https://gt-atelier-donnees.miti.cnrs.fr/download/2022_04_21_webinaire_Wikidata-Martinolli-PID.pdf))
+    ([pdf](/download/2022_04_21_webinaire_Wikidata-Martinolli-PID.pdf))
 -   Gérer, partager et interroger grâce à Wikibase des référentiels
     d\'autorité pour la recherche : l\'exemple de data.biblissima (Régis
     Robineau - Biblissima + Campus Condorcet)
-    ([pdf](https://gt-atelier-donnees.miti.cnrs.fr/download/2022_04_21_webinaire_Wikidata-Robineau_Biblissima.pdf))
+    ([pdf](/download/2022_04_21_webinaire_Wikidata-Robineau_Biblissima.pdf))
 
 
 ## Vidéos
