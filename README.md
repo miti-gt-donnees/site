@@ -14,6 +14,8 @@ On n’utilise rien de tout ca.
 
 Le site est générée avec l'image docker python:3.9 
 
+Pour installer `quarto` sur votre poste
+
 ~~~
 wget quarto-1.1.189-linux-amd64.deb
 dpkg -i quarto-1.1.189-linux-amd64.de
