@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Atelier Données"
-  site-url: https://mi-gt-donnees.pages.math.unistra.fr/quarto
+  site-url: https://gt-atelier-donnees.miti.cnrs.fr
   favicon: images/favicon.png
   page-navigation: true
   page-footer: 
