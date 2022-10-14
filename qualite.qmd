@@ -22,29 +22,29 @@ faut-il mettre en place pour arriver à obtenir des données de qualité ?
 ## Documents
 
 -   Synthèse du Webinaire (Christine Hadrossek)
-    ([pdf](https://mi-gt-donnees.pages.math.unistra.fr/site/download/Synthèse_webinaire_qualite.pdf))
+    ([pdf](download/Synthèse_webinaire_qualite.pdf))
 -   Programme
-    ([pdf](https://mi-gt-donnees.pages.math.unistra.fr/site/download/2021_07_05_webinaire_atelier_programme.pdf))
+    ([pdf](download/2021_07_05_webinaire_atelier_programme.pdf))
 -   Quel lien entre qualité et données ? (Alain Rivet, Cermav et Henri
     Valeins, RMSB)
-    ([pdf](https://mi-gt-donnees.pages.math.unistra.fr/site/download/2021_07_05_webinaire_atelier_Rivet_Valeins.pdf))
+    ([pdf](download/2021_07_05_webinaire_atelier_Rivet_Valeins.pdf))
 -   Processus de contrôle et qualification des données dans un système
     d'observation océanographique (Christine Coatanoan, Ingénieur
     Gestion de données au Sismer, Ifremer Brest)
-    ([pdf](https://mi-gt-donnees.pages.math.unistra.fr/site/download/2021_07_05_webinaire_atelier_Coatanoan.pdf))
+    ([pdf](download/2021_07_05_webinaire_atelier_Coatanoan.pdf))
 -   Cycle de vie de la donnée ouverte de qualité (Geoffrey Aldebert,
     Etalab)
-    ([pdf](https://mi-gt-donnees.pages.math.unistra.fr/site/download/2021_07_05_webinaire_atelier_Aldebert.pdf))
+    ([pdf](download/2021_07_05_webinaire_atelier_Aldebert.pdf))
 -   Enjeux de la qualité des référentiels et des métadonnées pour la
     communauté scientifique : vocabulaires contrôlés, alignements pour
     une meilleure fairisation et réplicabilité d'un modèle de données -
     au travers de l'exemple des outils de Frantiq. (Blandine Nouvel,
     Centre Camille Jullianet Véronique Humbert, Archéologie des Sociétés
     Méditerranéennes)
-    ([pdf](https://mi-gt-donnees.pages.math.unistra.fr/site/download/2021_07_05_webinaire_atelier_Humbert_Nouvel.pdf))
+    ([pdf](download/2021_07_05_webinaire_atelier_Humbert_Nouvel.pdf))
 -   Retour d'expérience en écologie végétale sur les étapes
     d'homogénéisation des données (Eric Garnier, chercheur CNRS au CEFE)
-    ([pdf](https://mi-gt-donnees.pages.math.unistra.fr/site/download/2021_07_05_webinaire_atelier_Garnier.pdf))
+    ([pdf](download/2021_07_05_webinaire_atelier_Garnier.pdf))
 
 
 ## Vidéos
