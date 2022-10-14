@@ -5,10 +5,13 @@ lang: fr
 ---
 
 Le CCSD lance officiellement son projet HALiance, lauréat de l’appel à projets Équipement structurant pour la recherche (Equipex+)*. D’une durée de cinq ans et demi, HALiance vise une évolution majeure de HAL (infrastructure matérielle, technologies et  services) tout en maintenant son fonctionnement courant.
-<https://www.ccsd.cnrs.fr/2022/09/haliance-un-projet-structurant-et-innovant-pour-hal/>
--->WP7 - Liens publications - données de la recherche (<https://www.ccsd.cnrs.fr/haliance/>)
 
-Livrables
+<https://www.ccsd.cnrs.fr/2022/09/haliance-un-projet-structurant-et-innovant-pour-hal/>
+
+WP7 - Liens publications - données de la recherche (<https://www.ccsd.cnrs.fr/haliance/>)
+
+Livrables:
+
 - Une solution automatisée repère et associe à la publication déposée dans HAL l’identifiant et la citation des données associées
 - Un service permet de déposer un jeu de données associé à une publication et de le transférer vers l’entrepôt de données idoine
 - HAL est interopérable avec Nakala (SHS) et les entrepôts Dataverse (notamment Recherche.data.gouv)
@@ -16,6 +19,7 @@ Livrables
 --------------------
 
 07/10/2022 : Toulouse : Datanoos : Quelles licences pour la protection et la réutilisation des données et des codes dans les projets de recherche? 
+
 <https://datanoos.univ-toulouse.fr/fr/quelles-licences-pour-la-protection-et-la-reutilisation-des-donnees-et-des-codes-dans-les-projets>
 
 --------------------
@@ -23,6 +27,7 @@ Livrables
 10-12/10/2022 : MSH Dijon et Distanciel : Journées Calcul Données, JCAD2022 : Rencontres scientifiques et techniques du calcul et des données
 <https://jcad2022.sciencesconf.org/>
 avec entre autres :
+
 - 12/10/2022 10:55 : Emmanuel Quemener - Refroidissement par immersion de serveurs : premiers retours opérationnels
 - 12/10/2022 11:20 : Mattéo Camier, Laurent Pouilloux, Anne Cadiou, Nathalie Grosjean, Guillaume Capiod, Quentin Ringes - Fiabilisation de l'infrastructure du calculateur et du datacentre l'hébergeant. Amélioration de l'efficience énergétique
 - 11/10/2022 16:25 : Yvan Le Bras, Elie Arnaud, Coline Royaux, Julien Sananikone, Olivier Norvez - Infrastructure PNDB, ouverture et FAIRisation des données et codes sources utilisés dans les domaines de la Biodiversité
