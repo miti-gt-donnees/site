@@ -34,12 +34,12 @@ pour évaluer la place que prend le data paper dans l’écosystème de la donn�
 
 ## Documents
 
-* [Synthèse du Webinaire du 5 novembre Data Paper par Christine Hadrossek](/downloads/Christine%20Hadrossek%20-%20Synth%C3%A8se%20webinaire%20du%205%20novembre%20Data%20Paper.pdf)
-* [Introduction](/downloads/Introduction_Stephane_Renault.pdf) : Stéphane Renault
-* [Évaluer un data paper : retour d'expérience de la revue Cybergeo](/downloads/Cybergeo_Denise_Pumain_Clementine_Cottineau_Christine_Kosmopoulos.pdf) : Clémentine Cottineau (CNRS – Centre Maurice Halbwachs), Denise Pumain (Univ. Paris 1 – UMR Géographie-Cités) et Christine Kosmopoulos (CNRS – UMR Géographie-Cités)
-* Exemple d’intégration du data paper à un workflow de publication de jeux données : [Sophie Pamerlon (GBIF France – USM Patrimoine naturel)](/downloads/GBIF_IPT_Sophie_Pamerlon.pdf) et [Annegret Nicolai (Univ.Rennes 1 – UMR ECOBIO, Station Biologique de Paimpont)](/downloads/BioBlitzSBP_Annegret_Nicolai.pdf)
-* Retour d’expérience d’un producteur de data paper : [Victor Gay (Univ. Toulouse 1– École d‘Économie de Toulouse)](/downloads/REX_TRFGIS_Victor_Gay.pdf)
-* Synthèse du webinaire et échanges (à partir des questions du tchat) : [Joachim Schöpfel (Université Lille 3 – GERiiCO)](/downloads/Synthese_Joachim_Schopfel.pdf)
+* [Synthèse du Webinaire du 5 novembre Data Paper par Christine Hadrossek](/download/Christine%20Hadrossek%20-%20Synth%C3%A8se%20webinaire%20du%205%20novembre%20Data%20Paper.pdf)
+* [Introduction](/download/Introduction_Stephane_Renault.pdf) : Stéphane Renault
+* [Évaluer un data paper : retour d'expérience de la revue Cybergeo](/download/Cybergeo_Denise_Pumain_Clementine_Cottineau_Christine_Kosmopoulos.pdf) : Clémentine Cottineau (CNRS – Centre Maurice Halbwachs), Denise Pumain (Univ. Paris 1 – UMR Géographie-Cités) et Christine Kosmopoulos (CNRS – UMR Géographie-Cités)
+* Exemple d’intégration du data paper à un workflow de publication de jeux données : [Sophie Pamerlon (GBIF France – USM Patrimoine naturel)](/download/GBIF_IPT_Sophie_Pamerlon.pdf) et [Annegret Nicolai (Univ.Rennes 1 – UMR ECOBIO, Station Biologique de Paimpont)](/download/BioBlitzSBP_Annegret_Nicolai.pdf)
+* Retour d’expérience d’un producteur de data paper : [Victor Gay (Univ. Toulouse 1– École d‘Économie de Toulouse)](/download/REX_TRFGIS_Victor_Gay.pdf)
+* Synthèse du webinaire et échanges (à partir des questions du tchat) : [Joachim Schöpfel (Université Lille 3 – GERiiCO)](/download/Synthese_Joachim_Schopfel.pdf)
  
 ## Vidéos
 
