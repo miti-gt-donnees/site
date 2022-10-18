@@ -14,6 +14,8 @@ website:
     logo: images/petit-logo-simple-blanc.png
     href: https://mi-gt-donnees.pages.math.unistra.fr/quarto
     right:
+    - text: "Actualités"
+      href: actualite.qmd
     - text: "Guide de bonnes pratiques"
       href: guide.qmd
     - text: "Thématiques"
