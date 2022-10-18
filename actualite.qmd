@@ -1,1 +1,11 @@
 
+Dans le cadre de ses activités 2022, le GT Atelier Données organise, le vendredi 9 décembre à Grenoble une journée d’étude - en présentiel - dont le titre provisoire est
+« Gitlab, votre compagnon pour élaborer vos produits de la recherche (publication, données, code source) ».
+
+Le programme est en cours d’élaboration mais il serait organisé en trois parties :
+Présentation des fonctionnalités de Gitlab
+Retours d’expérience (parmi les idées : utilisation faite par le GT sur les deux projets : guide de bonnes pratiques, site web ; du réseau rBDD sur l’utilisation de gitlab et les données ;  du réseau devlog sur l’utilisation de gitlab et les codes sources, ….).
+Discussion sur Gitlab versus HAL, Entrepôts de données style dataverse, Software Heritage
+
+Nous sommes ouverts à toutes propositions. N’hésitez surtout pas à nous contacter pour nous en faire part (gt-donnees-inter-reseaux@groupes.renater.fr)
+Nous reviendrons vers vous rapidement pour les informations d’ordres pratiques.
