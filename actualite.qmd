@@ -1,6 +1,6 @@
 
 ---
-title: "Actuelites"
+title: "Actualites"
 tags: [actualite]
 format:
   html:
