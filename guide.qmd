@@ -1,6 +1,5 @@
 ---
 title: "Guide de bonnes pratiques sur la gestion des données de la recherche"
-date: 2020-01-01
 tags: [guide]
 lang: fr
 format:
