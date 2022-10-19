@@ -17,9 +17,6 @@ Le groupe de travail "Atelier Données" a pris naissance suite aux rencontres de
 - Diffuser et valoriser les pratiques de chaque réseau dans les domaines des données
 - Sensibiliser les communautés porofessionelles à la gestion des données
 
-## Motion design
-
-<Div align = "center"> <iframe align="middle" width="350" height="315" src="https://www.canal-u.tv/embed/133380?t=0" allowfullscreen></iframe></ div>
 ## Evènements
 
 - En 2017, le groupe a élaboré un [document](/download/GTInterreseaux-CartoSyntheseV6-optimise.pdf) qui cartographie les usages dans chaque réseau autour de la gestion de la donnée.
@@ -73,3 +70,8 @@ Le groupe de travail "Atelier Données" a pris naissance suite aux rencontres de
 - [Septembre 2020](/lettres/03-Septembre_2020.md)
 - [Juillet 2020](/lettres/02-Juillet_2020.md)
 - [Juin 2020](/lettres/01-Juin_2020.md)
+
+## Motion design
+
+<Div align = "center"> <iframe align="middle" width="350" height="315" src="https://www.canal-u.tv/embed/133380?t=0" allowfullscreen></iframe></ div>
+
