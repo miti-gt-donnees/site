@@ -73,5 +73,5 @@ Le groupe de travail "Atelier Données" a pris naissance suite aux rencontres de
 
 ## Motion design
 
-<center> <iframe src="https://www.canal-u.tv/embed/133380?t=0" align="middle" allowfullscreen></iframe></center>
+<center> <iframe src="https://www.canal-u.tv/embed/133380?t=0" height="300" width="400" allowfullscreen></iframe></center>
 
