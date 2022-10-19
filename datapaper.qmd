@@ -5,7 +5,9 @@ date: 2020-11-5
 lang: fr    
 format:
   html:
-    toc: false
+    toc: true
+    toc-location: right
+    toc-depth: 2
 ---
 
 ## Description
