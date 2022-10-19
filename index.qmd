@@ -11,18 +11,8 @@ Le groupe de travail "Atelier Données" a pris naissance suite aux rencontres de
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="100%">
       <img src="./images/gt-donnees-logo.png" width=300>
-    </td>
-  </tr>
-</table>
-
-## Motion design
-
-<table>
-  <tr>
-    <td width="50%">
-      <iframe align="center" width="350" height="315" src="https://www.canal-u.tv/embed/133380?t=0" allowfullscreen></iframe>
     </td>
   </tr>
 </table>
@@ -33,6 +23,15 @@ Le groupe de travail "Atelier Données" a pris naissance suite aux rencontres de
 - Diffuser et valoriser les pratiques de chaque réseau dans les domaines des données
 - Sensibiliser les communautés porofessionelles à la gestion des données
 
+## Motion design
+
+<table>
+  <tr>
+    <td width="100%">
+      <iframe align="center" width="350" height="315" src="https://www.canal-u.tv/embed/133380?t=0" allowfullscreen></iframe>
+    </td>
+  </tr>
+</table>
 
 ## Evènements
 
