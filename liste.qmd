@@ -2,6 +2,9 @@
 title: "Liste de discussion"
 tags: [liste]
 lang: fr
+format:
+  html:
+    toc: false
 ---
 
 Pour faciliter les échanges autour des données de la recherche entre

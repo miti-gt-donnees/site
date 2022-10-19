@@ -4,10 +4,9 @@ description: Une incitation à la qualification et à la réutilisation des jeux
 date: 2020-11-5
 lang: fr    
 format:
+  format:
   html:
-    toc: true
-    toc-location: right
-    toc-depth: 2
+    toc: false
 ---
 
 ## Description
