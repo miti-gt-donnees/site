@@ -19,8 +19,7 @@ Le groupe de travail "Atelier Données" a pris naissance suite aux rencontres de
 
 ## Motion design
 
-<iframe align="middle" width="350" height="315" src="https://www.canal-u.tv/embed/133380?t=0" allowfullscreen></iframe>
-
+<Div align = "center"> <iframe align="middle" width="350" height="315" src="https://www.canal-u.tv/embed/133380?t=0" allowfullscreen></iframe></ div>
 ## Evènements
 
 - En 2017, le groupe a élaboré un [document](/download/GTInterreseaux-CartoSyntheseV6-optimise.pdf) qui cartographie les usages dans chaque réseau autour de la gestion de la donnée.
