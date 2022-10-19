@@ -9,13 +9,8 @@ format:
 
 Le groupe de travail "Atelier Données" a pris naissance suite aux rencontres des réseaux professionnels du CNRS (2016). Il est actuellement composé de représentants de 12 [structures](membres.qmd). Il s’attache à situer l'action de chaque réseau dans la gestion des données de la recherche : de l'expérience à la valorisation
 
-<table>
-  <tr>
-    <td width="100%">
-      <img src="./images/gt-donnees-logo.png" width=300>
-    </td>
-  </tr>
-</table>
+
+<img src="./images/gt-donnees-logo.png" width=300>
 
 ## Missions
 
