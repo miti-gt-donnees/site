@@ -9,6 +9,6 @@ format:
 
 Le GT sera présent au colloque [ID en action !](https://idenaction.sciencesconf.org/) le 25-26 novembre 2022  
 
-Réseaux technologiques transverses : Arthur Panier, Mission pour les intitiatives transverses et interdisciplinaires (MITI)  
+Réseaux technologiques transverses : Arthur Panier  (MITI)  
 GT Atelier Données : Marie-Claude Quidoz  
-Les actions phares des réseaux de la MITI : Céline Goujon (RHP), Jean-Luc Parouty (DevLOG), Nathalie Léon (MPR-QeR)  
+Actions phares des réseaux MITI : Céline Goujon (RHP), Jean-Luc Parouty (DevLOG), Nathalie Léon (MPR-QeR)  
