@@ -12,25 +12,12 @@ format:
 
 ## Description
 
-Dans le cadre d’une science ouverte et participative, le data paper permet de rendre plus visible tous les types de données et jeux de
-données de recherche dont on peut estimer que le potentiel de réutilisation est important. Il garantit la traçabilité et la qualité de ces données, et précise les modalités d’acquisition ainsi que les conditions et droits d’utilisation.
+Dans le cadre d’une science ouverte et participative, le data paper permet de rendre plus visible tous les types de données et jeux de données de recherche dont on peut estimer que le potentiel de réutilisation est important. Il garantit la traçabilité et la qualité de ces données, et précise les modalités d’acquisition ainsi que les conditions et droits d’utilisation.
 
-Néanmoins, pourquoi cette forme éditoriale rencontre-t-elle un tel engouement ? Si certaines communautés produisent depuis plusieurs
-années ce type d’article, la libération de la donnée dans le cadre de la science ouverte, son dépôt favorisé ou imposé par les organismes
-financeurs en entrepôts institutionnels ouverts, l’application des principes FAIR contribuent fortement à promouvoir le data paper
-comme qualifiant incontournable, assurant d’exploiter les «bonnes» données.
+Néanmoins, pourquoi cette forme éditoriale rencontre-t-elle un tel engouement ? Si certaines communautés produisent depuis plusieurs années ce type d’article, la libération de la donnée dans le cadre de la  science ouverte, son dépôt favorisé ou imposé par les organismes financeurs en entrepôts institutionnels ouverts, l’application des principes FAIR contribuent fortement à promouvoir le data paper comme qualifiant incontournable, assurant d’exploiter les «bonnes» données.
 
-Alors, cet élan est-il un reflet fidèle de la réalité, les pratiques de la recherche scientifique sont-elles en train de changer, les
-différents acteurs dans la production des données sont-ils plus impliqués dans la transparence et la mise à disposition des données
-? Est-ce une opportunité pour les personnels d’accompagnement de la recherche pour valoriser leur rôle ? Et comment rédiger un data
-paper, ou le publier ? Comment sont-ils expertisés, sur quels critères ? Le data paper devient-il un enjeu important dans
-l’évaluation du producteur de données ?Ce webinaire est ainsi l'occasion de laisser largement la place aux échanges pour tenter
-de partager vos points de vue, pour comprendre quelles sont les raisons qui vous amènent à devenir consommateur de data papers.
-Comment avez-vous connu ce format éditorial : grâce à votre veille, en découvrant l'existence de data journals ou de rubriques consacrées
-au data paper au sein d'une revue académique, parce que tout le monde en parle, en voulant utiliser ou publier des données ?
-Qu'avez-vous trouvé dans le data paper qui ne serait pas dans les portails de métadonnées ? Le data paper vous semble-t-il désormais
-indispensable et une forme nécessaire de publication accompagnant les données ?. Autant de questions que ce webinaire souhaite aborder
-pour évaluer la place que prend le data paper dans l’écosystème de la donnée scientifique.
+Alors, cet élan est-il un reflet fidèle de la réalité, les pratiques de la recherche scientifique sont-elles en train de changer, les différents acteurs dans la production des données sont-ils plus impliqués dans la transparence et la mise à disposition des données ? Est-ce une opportunité pour les personnels d’accompagnement de la recherche pour valoriser leur rôle ? Et comment rédiger un data
+paper, ou le publier ? Comment sont-ils expertisés, sur quels critères ? Le data paper devient-il un enjeu important dans l’évaluation du producteur de données ?Ce webinaire est ainsi l'occasion de laisser largement la place aux échanges pour tenter de partager vos points de vue, pour comprendre quelles sont les raisons qui vous amènent à devenir consommateur de data papers. Comment avez-vous connu ce format éditorial : grâce à votre veille, en découvrant l'existence de data journals ou de rubriques consacrées au data paper au sein d'une revue académique, parce que tout le monde en parle, en voulant utiliser ou publier des données ? Qu'avez-vous trouvé dans le data paper qui ne serait pas dans les portails de métadonnées ? Le data paper vous semble-t-il désormais indispensable et une forme nécessaire de publication accompagnant les données ?. Autant de questions que ce webinaire souhaite aborder pour évaluer la place que prend le data paper dans l’écosystème de la donnée scientifique.
 
 ## Documents
 
