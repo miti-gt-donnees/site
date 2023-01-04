@@ -28,7 +28,9 @@ Video : Toulouse Dataviz : Quarto - le nouvel outil pour créer vos dataviz
 <br>
 Qui n’a pas rêvé de scrapper un site web avec Python, de mettre en forme les valeurs extraites avec R, puis d’en faire un graphique interactif en Observable. Après 10 ans d’amélioration de R Markdown, l’équipe de Posit (ex RStudio) crée Quarto, un notebook open-source qui sublime le R Markdown, exécute du code en 4 langages (Python, R, Julia et Observable), permet une dizaine de formats de sortie à travers Pandoc et la publication en ligne vers 3 plateformes.
 <https://www.youtube.com/watch?v=Cwg7tdSdRvY>
+<br>
 
+le site du GT Atelier Données est construit à l'aide de Quarto, le code source est disponible à cette adresse <https://gitlab.math.unistra.fr/miti-gt-donnees/DEMO-QUARTO>
 --------------------
 
 The Turing Way: A Handbook for Reproducible Data Science
