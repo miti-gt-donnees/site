@@ -9,13 +9,16 @@ format:
     toc-depth: 2
 ---
 
-Version 2 du guide 
+version 2.0 - Janvier 2023
+
 <table><tr align="center"><td>
 <a href="https://mi-gt-donnees.pages.math.unistra.fr/guide/"> <img src="images/html.png" width=80></a>
 <a href="https://mi-gt-donnees.pages.math.unistra.fr/guide/guide_bonnes_pratiques_gestion_donnees_recherche_v1.pdf"> <img src="images/pdf.png" width=150></a>
 </td></tr></table>
 
 Ce guide est la production du groupe de travail inter-réseaux “Atelier Données”. Il fait suite à un premier travail très synthétique réalisé en 2017 qui visait à établir une [cartographie](/download/GTInterreseaux-CartoSyntheseV6-optimise.pdf) de l’action des réseaux en matière de gestion des données de la recherche.
+
+Ce guide a été réactualisé en Janvier 2023.
 
 Dans ce document, nous avons voulu témoigner des travaux réalisés au sein de nos réseaux métiers qui rendent compte de la gestion des données de la recherche tout en guidant le lecteur vers des bonnes
 pratiques en l’invitant aussi à cliquer sur des liens qui constituent des ressources lui permettant d’approfondir le sujet.
