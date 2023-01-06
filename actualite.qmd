@@ -7,3 +7,4 @@ format:
     toc: false
 ---
 
+Nous avons le plaisir de vous annoncer la sortie de la version 2 du "Guide de bonnes pratiques sur la gestion des données de la recherche". 
