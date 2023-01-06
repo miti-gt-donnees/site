@@ -9,7 +9,7 @@ format:
     toc-depth: 2
 ---
 
-version 2.0 - Janvier 2023
+Version 2.0 - Janvier 2023
 
 <table><tr align="center"><td>
 <a href="https://mi-gt-donnees.pages.math.unistra.fr/guide/"> <img src="images/html.png" width=80></a>
