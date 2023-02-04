@@ -11,6 +11,7 @@ pages:
     - rm -rf _site
     - quarto render
     - mv _site public
+    - echo "Redirect \"/gbp.html\" \"https://mi-gt-donnees.pages.math.unistra.fr/guide/00-introduction.html\"" > public/.htaccess
   tags:
     - docker
   artifacts:
