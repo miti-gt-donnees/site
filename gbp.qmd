@@ -1,0 +1,5 @@
+---
+title: "Guide de bonnes pratiques sur la gestion des données de la recherche"
+aliases:
+  - https://mi-gt-donnees.pages.math.unistra.fr/guide/00-introduction.html
+---
