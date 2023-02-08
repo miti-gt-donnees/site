@@ -1,3 +1,8 @@
+---
+title: Lettre d'information numéro 30
+date: 2022-12
+lang: fr
+---
 
 Mireille Brenel, Cédric Mercier, Stela Suhan, Adib Kassas, Claire Ménard, et al.. Rapport d’analyse – Enquête : Les données de la recherche à l'université ParisSaclay, panorama et perspectives. Université Paris-Saclay. 2022. ⟨hal-03857804⟩
 <https://hal-universite-paris-saclay.archives-ouvertes.fr/hal-03857804>
