@@ -1,5 +1,5 @@
 ---
-title: "Lettres Information"
+title: "Lettres d\'information"
 tags: [lettre]
 
 
