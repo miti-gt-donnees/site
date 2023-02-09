@@ -1,5 +1,5 @@
 ---
-title: "Lettres d\'information"
+title: "Lettres Information"
 tags: [lettre]
 format:
   html:
