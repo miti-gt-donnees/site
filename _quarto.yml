@@ -28,7 +28,7 @@ website:
           text: "Qualité des données"
         - href: wikidata.qmd
           text: "Wikidata"
-    - text: "Lettres d'Information"
+    - text: "Lettres d'information"
       href: lettres.qmd
     - text: "Documents"
       href: docs.qmd
