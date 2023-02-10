@@ -1,6 +1,6 @@
 ---
 title: "Lettres Information"
-tags: [lettre]
+tags: [lettres]
 
 ### 2023
 
