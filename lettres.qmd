@@ -1,6 +1,7 @@
 ---
-title: "Lettres Information"
+title: "Lettres d'information"
 tags: [lettres]
+---
 
 ### 2023
 
