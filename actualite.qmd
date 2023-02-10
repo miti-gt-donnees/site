@@ -9,9 +9,11 @@ format:
 
 Nous avons le plaisir de vous annoncer :
 
-## la sortie de la version 2 du "Guide de bonnes pratiques sur la gestion des données de la recherche". Vous pouvez le consulter en format [HTML](https://mi-gt-donnees.pages.math.unistra.fr/guide/00-introduction.html) ou [PDF](https://mi-gt-donnees.pages.math.unistra.fr/guide/guide_bonnes_pratiques_gestion_donnees_recherche_v2.pdf).
+### la sortie de la version 2 du "Guide de bonnes pratiques sur la gestion des données de la recherche". Vous pouvez le consulter en format [HTML](https://mi-gt-donnees.pages.math.unistra.fr/guide/00-introduction.html) ou [PDF](https://mi-gt-donnees.pages.math.unistra.fr/guide/guide_bonnes_pratiques_gestion_donnees_recherche_v2.pdf).
 
-## le prochain webinaire "Interroger les données" qui aura lieu le 31 mars 2023 de 10h00 à 12:00. Le programme est le suivant :
+### le prochain webinaire "Interroger les données" qui aura lieu le 31 mars 2023 de 10h00 à 12:00. 
+
+Le programme est le suivant :
 
 - Pierre Navaro (Institut de Recherche Mathématique de Rennes) nous présentera Quarto (<https://quarto.org/>)
 
