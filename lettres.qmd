@@ -1,6 +1,11 @@
 ---
 title: "Lettres d'information"
 tags: [lettres]
+lang: fr
+format:
+   html:
+     toc: true
+     toc-location: left
 ---
 
 ### 2023
